@@ -1,5 +1,6 @@
 [
   {
+    "provinceId": "kerala",
     "district": "KASARAGOD",
     "constituency": "KASARAGOD",
     "name": "RAJMOHAN UNNITHAN",
@@ -9,6 +10,7 @@
     "role": "MP"
   },
   {
+    "provinceId": "kerala",
     "district": "KANNUR",
     "constituency": "KANNUR",
     "name": "K. SUDHAKARAN",
@@ -18,6 +20,7 @@
     "role": "MP"
   },
   {
+    "provinceId": "kerala",
     "district": "KOZHIKODE",
     "constituency": "KOZHIKODE",
     "name": "M. K. RAGHAVAN",
@@ -27,6 +30,7 @@
     "role": "MP"
   },
   {
+    "provinceId": "kerala",
     "district": "KOZHIKODE",
     "constituency": "VADAKARA",
     "name": "SHAFI PARAMBIL",
@@ -36,6 +40,7 @@
     "role": "MP"
   },
   {
+    "provinceId": "kerala",
     "district": "WAYANAD",
     "constituency": "WAYANAD",
     "name": "PRIYANKA GANDHI VADRA",
@@ -45,6 +50,7 @@
     "role": "MP"
   },
   {
+    "provinceId": "kerala",
     "district": "MALAPPURAM",
     "constituency": "MALAPPURAM",
     "name": "M. P. ABDUSSAMAD SAMADANI",
@@ -54,6 +60,7 @@
     "role": "MP"
   },
   {
+    "provinceId": "kerala",
     "district": "MALAPPURAM",
     "constituency": "PONNANI",
     "name": "E. T. MOHAMMED BASHEER",
@@ -63,6 +70,7 @@
     "role": "MP"
   },
   {
+    "provinceId": "kerala",
     "district": "THIRUVANANTHAPURAM",
     "constituency": "THIRUVANANTHAPURAM",
     "name": "SHASHI THAROOR",
@@ -72,6 +80,7 @@
     "role": "MP"
   },
   {
+    "provinceId": "kerala",
     "district": "THRISSUR",
     "constituency": "THRISSUR",
     "name": "SURESH GOPI",
@@ -81,6 +90,7 @@
     "role": "MP"
   },
   {
+    "provinceId": "kerala",
     "district": "ERNAKULAM",
     "constituency": "ERNAKULAM",
     "name": "HIBI EDEN",
@@ -90,6 +100,7 @@
     "role": "MP"
   },
   {
+    "provinceId": "kerala",
     "district": "IDUKKI",
     "constituency": "IDUKKI",
     "name": "DEAN KURIAKOSE",
@@ -99,6 +110,7 @@
     "role": "MP"
   },
   {
+    "provinceId": "kerala",
     "district": "KOTTAYAM",
     "constituency": "KOTTAYAM",
     "name": "K. FRANCIS GEORGE",
@@ -108,6 +120,7 @@
     "role": "MP"
   },
   {
+    "provinceId": "kerala",
     "district": "ALAPPUZHA",
     "constituency": "ALAPPUZHA",
     "name": "K. C. VENUGOPAL",
@@ -117,6 +130,7 @@
     "role": "MP"
   },
   {
+    "provinceId": "kerala",
     "district": "ALAPPUZHA",
     "constituency": "MAVELIKKARA",
     "name": "KODIKUNNIL SURESH",
@@ -126,6 +140,7 @@
     "role": "MP"
   },
   {
+    "provinceId": "kerala",
     "district": "PATHANAMTHITTA",
     "constituency": "PATHANAMTHITTA",
     "name": "ANTO ANTONY",
@@ -135,6 +150,7 @@
     "role": "MP"
   },
   {
+    "provinceId": "kerala",
     "district": "KOLLAM",
     "constituency": "KOLLAM",
     "name": "N. K. PREMACHANDRAN",
@@ -144,6 +160,7 @@
     "role": "MP"
   },
   {
+    "provinceId": "kerala",
     "district": "THIRUVANANTHAPURAM",
     "constituency": "ATTINGAL",
     "name": "ADOOR PRAKASH",
@@ -153,6 +170,7 @@
     "role": "MP"
   },
   {
+    "provinceId": "kerala",
     "district": "THRISSUR",
     "constituency": "CHALAKUDY",
     "name": "BENNY BEHANAN",
@@ -162,6 +180,7 @@
     "role": "MP"
   },
   {
+    "provinceId": "kerala",
     "district": "PALAKKAD",
     "constituency": "PALAKKAD",
     "name": "V. K. SREEKANDAN",
@@ -171,6 +190,7 @@
     "role": "MP"
   },
   {
+    "provinceId": "kerala",
     "district": "PALAKKAD",
     "constituency": "ALATHUR",
     "name": "K. RADHAKRISHNAN",

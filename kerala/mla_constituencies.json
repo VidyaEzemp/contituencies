@@ -1,5 +1,6 @@
 [
   {
+    "provinceId": "kerala",
     "district": "MALAPPURAM",
     "constituency": "VALLIKUNNU",
     "name": "ABDUL HAMEED MASTER",
@@ -9,6 +10,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "MALAPPURAM",
     "constituency": "WANDOOR",
     "name": "A P ANIL KUMAR",
@@ -18,6 +20,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "MALAPPURAM",
     "constituency": "NILAMBUR",
     "name": "ARYADAN SHOUKATH",
@@ -27,6 +30,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "MALAPPURAM",
     "constituency": "THAVANUR",
     "name": "DR. K T JALEEL",
@@ -36,6 +40,7 @@
     "role": "Independent MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "MALAPPURAM",
     "constituency": "TIRURANGADI",
     "name": "K P A MAJEED",
@@ -45,6 +50,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "MALAPPURAM",
     "constituency": "TIRUR",
     "name": "KURUKKOLI MOIDEEN",
@@ -54,6 +60,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "MALAPPURAM",
     "constituency": "MANKADA",
     "name": "MANJALAMKUZHI ALI",
@@ -63,6 +70,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "MALAPPURAM",
     "constituency": "PERINTHALMANNA",
     "name": "NAJEEB KANTHAPURAM",
@@ -72,6 +80,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "MALAPPURAM",
     "constituency": "ERNAD",
     "name": "P K BASHEER",
@@ -81,6 +90,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "MALAPPURAM",
     "constituency": "VENGARA",
     "name": "P K KUNHALIKUTTY",
@@ -90,6 +100,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "MALAPPURAM",
     "constituency": "PONNANI",
     "name": "P NANDAKUMAR",
@@ -99,6 +110,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "MALAPPURAM",
     "constituency": "KOTTAKKAL",
     "name": "PROF. ABID HUSSAIN THANGAL",
@@ -108,6 +120,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "MALAPPURAM",
     "constituency": "MALAPPURAM",
     "name": "P UBAIDULLA",
@@ -117,6 +130,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "MALAPPURAM",
     "constituency": "KONDOTTY",
     "name": "T V IBRAHIM",
@@ -126,6 +140,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "MALAPPURAM",
     "constituency": "MANJERI",
     "name": "U A LATHEEF",
@@ -135,6 +150,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "MALAPPURAM",
     "constituency": "TANUR",
     "name": "V ABDURAHIMAN",
@@ -144,6 +160,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THRISSUR",
     "constituency": "KUNNAMKULAM",
     "name": "A C MOIDEEN",
@@ -153,6 +170,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THRISSUR",
     "constituency": "NATTIKA",
     "name": "C C MUKUNDAN",
@@ -162,6 +180,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THRISSUR",
     "constituency": "KAIPAMANGALAM",
     "name": "E T TAISON MASTER",
@@ -171,6 +190,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THRISSUR",
     "constituency": "PUTHUKKAD",
     "name": "K K RAMACHANDRAN",
@@ -180,6 +200,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THRISSUR",
     "constituency": "GURUVAYOOR",
     "name": "N K AKBAR",
@@ -189,6 +210,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THRISSUR",
     "constituency": "OLLUR",
     "name": "K RAJAN",
@@ -198,6 +220,7 @@
     "role": "Cabinet Minister – Revenue"
   },
   {
+    "provinceId": "kerala",
     "district": "THRISSUR",
     "constituency": "THRISSUR",
     "name": "P BALACHANDRAN",
@@ -207,6 +230,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THRISSUR",
     "constituency": "IRINJALAKUDA",
     "name": "PROF. R BINDU",
@@ -216,6 +240,7 @@
     "role": "Cabinet Minister – Higher Education & Social Justice"
   },
   {
+    "provinceId": "kerala",
     "district": "THRISSUR",
     "constituency": "CHALAKUDY",
     "name": "SANEESHKUMAR JOSEPH",
@@ -225,6 +250,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THRISSUR",
     "constituency": "MANALUR",
     "name": "MURALI PERUNELLY",
@@ -234,6 +260,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THRISSUR",
     "constituency": "KODUNGALLUR",
     "name": "V R SUNIL KUMAR",
@@ -243,6 +270,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THRISSUR",
     "constituency": "WADAKKANCHERY",
     "name": "XAVIER CHITTILAPPILLY",
@@ -252,6 +280,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THRISSUR",
     "constituency": "CHELAKKARA",
     "name": "U R PRADEEP",
@@ -261,6 +290,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ERNAKULAM",
     "constituency": "ALUVA",
     "name": "ANWAR SADATH",
@@ -270,6 +300,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ERNAKULAM",
     "constituency": "PIRAVOM",
     "name": "ANOOP JACOB",
@@ -279,6 +310,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ERNAKULAM",
     "constituency": "KOTHAMANGALAM",
     "name": "ANTONY JOHN",
@@ -288,6 +320,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ERNAKULAM",
     "constituency": "MUVATTUPUZHA",
     "name": "DR. MATHEW KUZHALNADAN",
@@ -297,6 +330,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ERNAKULAM",
     "constituency": "PERUMBAVOOR",
     "name": "ELDOSE P KUNNAPILLIL",
@@ -306,6 +340,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ERNAKULAM",
     "constituency": "THRIPUNITHURA",
     "name": "K BABU",
@@ -315,6 +350,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ERNAKULAM",
     "constituency": "KALAMASSERY",
     "name": "P RAJEEV",
@@ -324,6 +360,7 @@
     "role": "Cabinet Minister – Industries & Law"
   },
   {
+    "provinceId": "kerala",
     "district": "ERNAKULAM",
     "constituency": "KOCHI",
     "name": "K J MAXY",
@@ -333,6 +370,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ERNAKULAM",
     "constituency": "ERNAKULAM",
     "name": "T J VINOD",
@@ -342,6 +380,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ERNAKULAM",
     "constituency": "ANGAMALY",
     "name": "ROJI M JOHN",
@@ -351,6 +390,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ERNAKULAM",
     "constituency": "VYPEEN",
     "name": "K N UNNIKRISHNAN",
@@ -360,6 +400,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ERNAKULAM",
     "constituency": "KUNNATHUNAD",
     "name": "P V SRINIJIN",
@@ -369,6 +410,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ERNAKULAM",
     "constituency": "THRIKKAKARA",
     "name": "UMA THOMAS",
@@ -378,6 +420,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ERNAKULAM",
     "constituency": "PARAVUR",
     "name": "V D SATHEESAN",
@@ -387,6 +430,7 @@
     "role": "Leader of Opposition"
   },
   {
+    "provinceId": "kerala",
     "district": "KOZHIKODE",
     "constituency": "KOZHIKODE SOUTH",
     "name": "AHAMMED DEVARKOVIL",
@@ -396,6 +440,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOZHIKODE",
     "constituency": "ELATHUR",
     "name": "A K SASEENDRAN",
@@ -405,6 +450,7 @@
     "role": "Cabinet Minister – Forests & Wildlife"
   },
   {
+    "provinceId": "kerala",
     "district": "KOZHIKODE",
     "constituency": "KODUVALLY",
     "name": "DR. M K MUNEER",
@@ -414,6 +460,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOZHIKODE",
     "constituency": "NADAPURAM",
     "name": "E K VIJAYAN",
@@ -423,6 +470,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOZHIKODE",
     "constituency": "QUILANDY",
     "name": "KANATHIL JAMEELA",
@@ -432,6 +480,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOZHIKODE",
     "constituency": "KUTTIADY",
     "name": "K P KUNHAMMED KUTTY MASTER",
@@ -441,6 +490,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOZHIKODE",
     "constituency": "KUNNAMANGALAM",
     "name": "P T A RAHIM",
@@ -450,6 +500,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOZHIKODE",
     "constituency": "BEYPORE",
     "name": "P A MOHAMED RIYAS",
@@ -459,6 +510,7 @@
     "role": "Cabinet Minister – Public Works & Tourism"
   },
   {
+    "provinceId": "kerala",
     "district": "KOZHIKODE",
     "constituency": "KOZHIKODE NORTH",
     "name": "THOTTATHIL RAVEENDRAN",
@@ -468,6 +520,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOZHIKODE",
     "constituency": "PERAMBRA",
     "name": "T P RAMAKRISHNAN",
@@ -477,6 +530,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOZHIKODE",
     "constituency": "BALUSSERI",
     "name": "K M SACHINDEV",
@@ -486,6 +540,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOZHIKODE",
     "constituency": "THIRUVAMBADY",
     "name": "LINTO JOSEPH",
@@ -495,6 +550,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOZHIKODE",
     "constituency": "VATAKARA",
     "name": "K K REMA",
@@ -504,6 +560,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOZHIKODE",
     "constituency": "PAYYOLI",
     "name": "KANATHIL JAMEELA",
@@ -513,6 +570,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "PALAKKAD",
     "constituency": "MALAMPUZHA",
     "name": "A PRABHAKARAN",
@@ -522,6 +580,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "PALAKKAD",
     "constituency": "NEMMARA",
     "name": "K BABU",
@@ -531,6 +590,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "PALAKKAD",
     "constituency": "ALATHUR",
     "name": "K D PRASENAN",
@@ -540,6 +600,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "PALAKKAD",
     "constituency": "CHITTUR",
     "name": "K KRISHNANKUTTY",
@@ -549,6 +610,7 @@
     "role": "Cabinet Minister – Water Resources"
   },
   {
+    "provinceId": "kerala",
     "district": "PALAKKAD",
     "constituency": "OTTAPPALAM",
     "name": "K PREMKUMAR",
@@ -558,6 +620,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "PALAKKAD",
     "constituency": "MANNARKKAD",
     "name": "N SAMSUDHEEN",
@@ -567,6 +630,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "PALAKKAD",
     "constituency": "PATTAMBI",
     "name": "MUHAMMAD MUHSIN",
@@ -576,6 +640,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "PALAKKAD",
     "constituency": "SHORNUR",
     "name": "P MAMMIKKUTTY",
@@ -585,6 +650,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "PALAKKAD",
     "constituency": "THRITHALA",
     "name": "V T BALRAM",
@@ -594,6 +660,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "PALAKKAD",
     "constituency": "TARUR",
     "name": "P P SUMOD",
@@ -603,6 +670,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "PALAKKAD",
     "constituency": "KONGAD",
     "name": "K SANTHAKUMARI",
@@ -612,6 +680,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "PALAKKAD",
     "constituency": "PALAKKAD",
     "name": "RAHUL MAMKOOTATHIL",
@@ -621,6 +690,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KANNUR",
     "constituency": "TALIPARAMBA",
     "name": "M V GOVINDAN MASTER",
@@ -630,6 +700,7 @@
     "role": "Cabinet Minister – Local Self Government (Rural)"
   },
   {
+    "provinceId": "kerala",
     "district": "KANNUR",
     "constituency": "IRIKKUR",
     "name": "SAJEEV JOSEPH",
@@ -639,6 +710,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KANNUR",
     "constituency": "DHARMADAM",
     "name": "PINARAYI VIJAYAN",
@@ -648,6 +720,7 @@
     "role": "Chief Minister"
   },
   {
+    "provinceId": "kerala",
     "district": "KANNUR",
     "constituency": "MATTANNUR",
     "name": "K K SHAILAJA TEACHER",
@@ -657,6 +730,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KANNUR",
     "constituency": "PAYYANNUR",
     "name": "T I MADHUSOODANAN",
@@ -666,6 +740,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KANNUR",
     "constituency": "KUTHUPARAMBA",
     "name": "K P MOHANAN",
@@ -675,6 +750,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KANNUR",
     "constituency": "AZHIKODE",
     "name": "K V SUMESH",
@@ -684,6 +760,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KANNUR",
     "constituency": "THALASSERY",
     "name": "A N SHAMSEER",
@@ -693,6 +770,7 @@
     "role": "Speaker – Kerala Legislative Assembly"
   },
   {
+    "provinceId": "kerala",
     "district": "KANNUR",
     "constituency": "KALLIASSERI",
     "name": "M VIJIN",
@@ -702,6 +780,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KANNUR",
     "constituency": "PERAVOOR",
     "name": "SUNNY JOSEPH",
@@ -711,6 +790,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KANNUR",
     "constituency": "KANNUR",
     "name": "RAMACHANDRAN KADANNAPPALLI",
@@ -720,6 +800,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOLLAM",
     "constituency": "ADOOR",
     "name": "CHITTAYAM GOPAKUMAR",
@@ -729,6 +810,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOLLAM",
     "constituency": "KARUNAGAPALLY",
     "name": "C R MAHESH",
@@ -738,6 +820,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOLLAM",
     "constituency": "CHAVARA",
     "name": "DR. SUJITH VIJAYANPILLAI",
@@ -747,6 +830,7 @@
     "role": "Independent MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOLLAM",
     "constituency": "CHATHANNOOR",
     "name": "G S JAYALAL",
@@ -756,6 +840,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOLLAM",
     "constituency": "KUNDARA",
     "name": "P C VISHNUNADH",
@@ -765,6 +850,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOLLAM",
     "constituency": "PATHANAPURAM",
     "name": "K B GANESH KUMAR",
@@ -774,6 +860,7 @@
     "role": "Cabinet Minister – Transport"
   },
   {
+    "provinceId": "kerala",
     "district": "KOLLAM",
     "constituency": "KOTTARAKKARA",
     "name": "K N BALAGOPAL",
@@ -783,6 +870,7 @@
     "role": "Cabinet Minister – Finance"
   },
   {
+    "provinceId": "kerala",
     "district": "KOLLAM",
     "constituency": "KUNNATHUR",
     "name": "KOVOOR KUNJUMON",
@@ -792,6 +880,7 @@
     "role": "Independent MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOLLAM",
     "constituency": "PUNALUR",
     "name": "P S SUPAL",
@@ -801,6 +890,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOLLAM",
     "constituency": "KOLLAM",
     "name": "M MUKESH",
@@ -810,6 +900,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOLLAM",
     "constituency": "ERAVIPURAM",
     "name": "M NOUSHAD",
@@ -819,6 +910,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ALAPPUZHA",
     "constituency": "AROOR",
     "name": "DALEEMA",
@@ -828,6 +920,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ALAPPUZHA",
     "constituency": "AMBALAPPUZHA",
     "name": "H SALAM",
@@ -837,6 +930,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ALAPPUZHA",
     "constituency": "CHERTHALA",
     "name": "P PRASAD",
@@ -846,6 +940,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ALAPPUZHA",
     "constituency": "ALAPPUZHA",
     "name": "P P CHITHARANJAN",
@@ -855,6 +950,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ALAPPUZHA",
     "constituency": "KUTTANAD",
     "name": "THOMAS K THOMAS",
@@ -864,6 +960,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ALAPPUZHA",
     "constituency": "HARIPAD",
     "name": "RAMESH CHENNITHALA",
@@ -873,6 +970,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ALAPPUZHA",
     "constituency": "KAYAMKULAM",
     "name": "U PRATHIBHA",
@@ -882,6 +980,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ALAPPUZHA",
     "constituency": "MAVELIKKARA",
     "name": "M S ARUN KUMAR",
@@ -891,6 +990,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "ALAPPUZHA",
     "constituency": "CHENGANNUR",
     "name": "SAJI CHERIYAN",
@@ -900,6 +1000,7 @@
     "role": "Cabinet Minister – Fisheries, Culture & Youth Affairs"
   },
   {
+    "provinceId": "kerala",
     "district": "PATHANAMTHITTA",
     "constituency": "ADOOR",
     "name": "CHITTAYAM GOPAKUMAR",
@@ -909,6 +1010,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "PATHANAMTHITTA",
     "constituency": "KONNI",
     "name": "K U JENISH KUMAR",
@@ -918,6 +1020,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "PATHANAMTHITTA",
     "constituency": "RANNI",
     "name": "PRAMOD NARAYAN",
@@ -927,6 +1030,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "PATHANAMTHITTA",
     "constituency": "THIRUVALLA",
     "name": "MATHEW T THOMAS",
@@ -936,6 +1040,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "PATHANAMTHITTA",
     "constituency": "ARANMULA",
     "name": "VEENA GEORGE",
@@ -945,6 +1050,7 @@
     "role": "Cabinet Minister – Health & Family Welfare"
   },
   {
+    "provinceId": "kerala",
     "district": "KOTTAYAM",
     "constituency": "PUTHUPPALLY",
     "name": "CHANDY OOMMEN",
@@ -954,6 +1060,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOTTAYAM",
     "constituency": "VAIKOM",
     "name": "C K ASHA",
@@ -963,6 +1070,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOTTAYAM",
     "constituency": "CHANGANASSERY",
     "name": "JOB MAICHIL",
@@ -972,6 +1080,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOTTAYAM",
     "constituency": "KANJIRAPPALLY",
     "name": "DR. N JAYARAJ",
@@ -981,6 +1090,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOTTAYAM",
     "constituency": "PALA",
     "name": "MANI C KAPPAN",
@@ -990,6 +1100,7 @@
     "role": "Independent MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOTTAYAM",
     "constituency": "KADUTHURUTHY",
     "name": "MONS JOSEPH",
@@ -999,6 +1110,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOTTAYAM",
     "constituency": "ETTUMANOOR",
     "name": "V N VASAVAN",
@@ -1008,6 +1120,7 @@
     "role": "Cabinet Minister – Cooperation & Registration"
   },
   {
+    "provinceId": "kerala",
     "district": "KOTTAYAM",
     "constituency": "POONJAR",
     "name": "SEBASTIAN KULATHUNKAL",
@@ -1017,6 +1130,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KOTTAYAM",
     "constituency": "KOTTAYAM",
     "name": "THIRUVANCHOOR RADHAKRISHNAN",
@@ -1026,6 +1140,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "IDUKKI",
     "constituency": "DEVIKULAM",
     "name": "A RAJA",
@@ -1035,6 +1150,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "IDUKKI",
     "constituency": "UDUMBANCHOLA",
     "name": "M M MANI",
@@ -1044,6 +1160,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "IDUKKI",
     "constituency": "THODUPUZHA",
     "name": "P J JOSEPH",
@@ -1053,6 +1170,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "IDUKKI",
     "constituency": "PEERUMADE",
     "name": "VAZHOOR SOMAN",
@@ -1062,6 +1180,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "IDUKKI",
     "constituency": "IDUKKI",
     "name": "ROSHY AUGUSTINE",
@@ -1071,6 +1190,7 @@
     "role": "Cabinet Minister – Water Resources (Irrigation)"
   },
   {
+    "provinceId": "kerala",
     "district": "KASARAGOD",
     "constituency": "MANJESHWAR",
     "name": "A K M ASHRAF",
@@ -1080,6 +1200,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KASARAGOD",
     "constituency": "UDMA",
     "name": "C H KUNHAMBU",
@@ -1089,6 +1210,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KASARAGOD",
     "constituency": "KANHANGAD",
     "name": "E CHANDRASEKHARAN",
@@ -1098,6 +1220,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KASARAGOD",
     "constituency": "TRIKARIPUR",
     "name": "M RAJAGOPALAN",
@@ -1107,6 +1230,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "KASARAGOD",
     "constituency": "KASARAGOD",
     "name": "N A NELLIKKUNNU",
@@ -1116,6 +1240,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "WAYANAD",
     "constituency": "SULTHANBATHERY",
     "name": "I C BALAKRISHNAN",
@@ -1125,6 +1250,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "WAYANAD",
     "constituency": "MANANTHAVADY",
     "name": "O R KELU",
@@ -1134,6 +1260,7 @@
     "role": "Cabinet Minister – SC/ST & Backward Classes Welfare"
   },
   {
+    "provinceId": "kerala",
     "district": "WAYANAD",
     "constituency": "KALPETTA",
     "name": "T SIDDIQU",
@@ -1143,6 +1270,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THIRUVANANTHAPURAM",
     "constituency": "THIRUVANANTHAPURAM",
     "name": "ANTONY RAJU",
@@ -1152,6 +1280,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THIRUVANANTHAPURAM",
     "constituency": "PARASSALA",
     "name": "C K HAREENDRAN",
@@ -1161,6 +1290,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THIRUVANANTHAPURAM",
     "constituency": "VAMANAPURAM",
     "name": "D K MURALI",
@@ -1170,6 +1300,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THIRUVANANTHAPURAM",
     "constituency": "NEDUMANGAD",
     "name": "G R ANIL",
@@ -1179,6 +1310,7 @@
     "role": "Cabinet Minister – Food & Civil Supplies"
   },
   {
+    "provinceId": "kerala",
     "district": "THIRUVANANTHAPURAM",
     "constituency": "ARUVIKKARA",
     "name": "G STEPHEN",
@@ -1188,6 +1320,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THIRUVANANTHAPURAM",
     "constituency": "KATTAKKADA",
     "name": "I B SATHEESH",
@@ -1197,6 +1330,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THIRUVANANTHAPURAM",
     "constituency": "KAZHAKOOTTAM",
     "name": "KADAKAMPALLY SURENDRAN",
@@ -1206,6 +1340,7 @@
     "role": "Cabinet Minister – Devaswom"
   },
   {
+    "provinceId": "kerala",
     "district": "THIRUVANANTHAPURAM",
     "constituency": "NEYYATTINKARA",
     "name": "K ANSALAN",
@@ -1215,6 +1350,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THIRUVANANTHAPURAM",
     "constituency": "ATTINGAL",
     "name": "O S AMBIKA",
@@ -1224,6 +1360,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THIRUVANANTHAPURAM",
     "constituency": "VARKALA",
     "name": "V JOY",
@@ -1233,6 +1370,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THIRUVANANTHAPURAM",
     "constituency": "VATTIYOORKAVU",
     "name": "V K PRASANTH",
@@ -1242,6 +1380,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THIRUVANANTHAPURAM",
     "constituency": "NEMOM",
     "name": "V SIVANKUTTY",
@@ -1251,6 +1390,7 @@
     "role": "Cabinet Minister – General Education & Labour"
   },
   {
+    "provinceId": "kerala",
     "district": "THIRUVANANTHAPURAM",
     "constituency": "CHIRAYINKEEZHU",
     "name": "V SASI",
@@ -1260,6 +1400,7 @@
     "role": "MLA"
   },
   {
+    "provinceId": "kerala",
     "district": "THIRUVANANTHAPURAM",
     "constituency": "KOVALAM",
     "name": "M VINCENT",
