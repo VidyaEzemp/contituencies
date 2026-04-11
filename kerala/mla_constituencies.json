@@ -1,1017 +1,1271 @@
-{
-  "MALAPPURAM": {
-    "VALLIKUNNU": {
-      "name": "ABDUL HAMEED MASTER",
-      "phone": "9847327102",
-      "email": "abdulhameedmaster@niyamasabha.nic.in",
-      "party": "Indian Union Muslim League",
-      "role": "MLA"
-    },
-    "WANDOOR": {
-      "name": "A P ANIL KUMAR",
-      "phone": "9447115677",
-      "email": "apanilkumar@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    },
-    "NILAMBUR": {
-      "name": "ARYADAN SHOUKATH",
-      "phone": "",
-      "email": "aryadanshoukath@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    },
-    "THAVANUR": {
-      "name": "DR. K T JALEEL",
-      "phone": "9895073107",
-      "email": "dr.ktjaleel@niyamasabha.nic.in",
-      "party": "Independent",
-      "role": "Independent MLA"
-    },
-    "TIRURANGADI": {
-      "name": "K P A MAJEED",
-      "phone": "9447109014",
-      "email": "kpamajeed@niyamasabha.nic.in",
-      "party": "Indian Union Muslim League",
-      "role": "MLA"
-    },
-    "TIRUR": {
-      "name": "KURUKKOLI MOIDEEN",
-      "phone": "9846812526",
-      "email": "kurukkolimoideen@niyamasabha.nic.in",
-      "party": "Indian Union Muslim League",
-      "role": "MLA"
-    },
-    "MANKADA": {
-      "name": "MANJALAMKUZHI ALI",
-      "phone": "9447082166",
-      "email": "manjalamkuzhiali@niyamasabha.nic.in",
-      "party": "Indian Union Muslim League",
-      "role": "MLA"
-    },
-    "PERINTHALMANNA": {
-      "name": "NAJEEB KANTHAPURAM",
-      "phone": "9846881772",
-      "email": "najeeb@niyamasabha.nic.in",
-      "party": "Indian Union Muslim League",
-      "role": "MLA"
-    },
-    "ERNAD": {
-      "name": "P K BASHEER",
-      "phone": "9496606060",
-      "email": "pkbasheer@niyamasabha.nic.in",
-      "party": "Indian Union Muslim League",
-      "role": "MLA"
-    },
-    "VENGARA": {
-      "name": "P K KUNHALIKUTTY",
-      "phone": "9947020200",
-      "email": "pkkunhalikutty@niyamasabha.nic.in",
-      "party": "Indian Union Muslim League",
-      "role": "MLA"
-    },
-    "PONNANI": {
-      "name": "P NANDAKUMAR",
-      "phone": "9447134129",
-      "email": "pnandakumar@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "KOTTAKKAL": {
-      "name": "PROF. ABID HUSSAIN THANGAL",
-      "phone": "9447282329",
-      "email": "abidhussain@niyamasabha.nic.in",
-      "party": "Indian Union Muslim League",
-      "role": "MLA"
-    },
-    "MALAPPURAM": {
-      "name": "P UBAIDULLA",
-      "phone": "9447353079",
-      "email": "pubaidulla@niyamasabha.nic.in",
-      "party": "Indian Union Muslim League",
-      "role": "MLA"
-    },
-    "KONDOTTY": {
-      "name": "T V IBRAHIM",
-      "phone": "9446774400",
-      "email": "tvibrahim@niyamasabha.nic.in",
-      "party": "Indian Union Muslim League",
-      "role": "MLA"
-    },
-    "MANJERI": {
-      "name": "U A LATHEEF",
-      "phone": "9447477970",
-      "email": "ualatheef@niyamasabha.nic.in",
-      "party": "Indian Union Muslim League",
-      "role": "MLA"
-    },
-    "TANUR": {
-      "name": "V ABDURAHIMAN",
-      "phone": "9447121485",
-      "email": "vabdurahiman@niyamasabha.nic.in",
-      "party": "National Secular Conference",
-      "role": "MLA"
-    }
+[
+  {
+    "district": "MALAPPURAM",
+    "constituency": "VALLIKUNNU",
+    "name": "ABDUL HAMEED MASTER",
+    "phone": "9847327102",
+    "email": "abdulhameedmaster@niyamasabha.nic.in",
+    "party": "Indian Union Muslim League",
+    "role": "MLA"
   },
-  "THRISSUR": {
-    "KUNNAMKULAM": {
-      "name": "A C MOIDEEN",
-      "phone": "9447978800",
-      "email": "acmoideen@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "NATTIKA": {
-      "name": "C C MUKUNDAN",
-      "phone": "9947071105",
-      "email": "ccmukundan@niyamasabha.nic.in",
-      "party": "Communist Party Of India",
-      "role": "MLA"
-    },
-    "KAIPAMANGALAM": {
-      "name": "E T TAISON MASTER",
-      "phone": "9846958317",
-      "email": "etttaisonmaster@niyamasabha.nic.in",
-      "party": "Communist Party Of India",
-      "role": "MLA"
-    },
-    "PUTHUKKAD": {
-      "name": "K K RAMACHANDRAN",
-      "phone": "9846186095",
-      "email": "kkramachandran@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "GURUVAYOOR": {
-      "name": "N K AKBAR",
-      "phone": "9447077777",
-      "email": "nkakbar@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "OLLUR": {
-      "name": "K RAJAN",
-      "phone": "9447011111",
-      "email": "krajan@niyamasabha.nic.in",
-      "party": "Communist Party Of India",
-      "role": "Cabinet Minister – Revenue"
-    },
-    "THRISSUR": {
-      "name": "P BALACHANDRAN",
-      "phone": "9847581634",
-      "email": "pbalachandran@niyamasabha.nic.in",
-      "party": "Communist Party Of India",
-      "role": "MLA"
-    },
-    "IRINJALAKUDA": {
-      "name": "PROF. R BINDU",
-      "phone": "9496371755",
-      "email": "rbindu@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "Cabinet Minister – Higher Education & Social Justice"
-    },
-    "CHALAKUDY": {
-      "name": "SANEESHKUMAR JOSEPH",
-      "phone": "9495981538",
-      "email": "saneeshkumar@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    },
-    "MANALUR": {
-      "name": "MURALI PERUNELLY",
-      "phone": "9447015284",
-      "email": "muraliperunelly@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "KODUNGALLUR": {
-      "name": "V R SUNIL KUMAR",
-      "phone": "9656965759",
-      "email": "vrsunilkumar@niyamasabha.nic.in",
-      "party": "Communist Party Of India",
-      "role": "MLA"
-    },
-    "WADAKKANCHERY": {
-      "name": "XAVIER CHITTILAPPILLY",
-      "phone": "9446228486",
-      "email": "xavierchittilappilly@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "CHELAKKARA": {
-      "name": "U R PRADEEP",
-      "phone": "",
-      "email": "urpradeep@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    }
+  {
+    "district": "MALAPPURAM",
+    "constituency": "WANDOOR",
+    "name": "A P ANIL KUMAR",
+    "phone": "9447115677",
+    "email": "apanilkumar@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
   },
-  "ERNAKULAM": {
-    "ALUVA": {
-      "name": "ANWAR SADATH",
-      "phone": "9846887886",
-      "email": "anwarsadath@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    },
-    "PIRAVOM": {
-      "name": "ANOOP JACOB",
-      "phone": "9847069671",
-      "email": "anoopjacob@niyamasabha.nic.in",
-      "party": "Kerala Congress (Jacob)",
-      "role": "MLA"
-    },
-    "KOTHAMANGALAM": {
-      "name": "ANTONY JOHN",
-      "phone": "9946640994",
-      "email": "antonyjohn@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "MUVATTUPUZHA": {
-      "name": "DR. MATHEW KUZHALNADAN",
-      "phone": "9495974044",
-      "email": "dr.mathewkuzhalnadan@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    },
-    "PERUMBAVOOR": {
-      "name": "ELDOSE P KUNNAPILLIL",
-      "phone": "9446300547",
-      "email": "eldosepkunnapillil@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    },
-    "THRIPUNITHURA": {
-      "name": "K BABU",
-      "phone": "9447048418",
-      "email": "kbabu@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    },
-    "KALAMASSERY": {
-      "name": "P RAJEEV",
-      "phone": "9447073744",
-      "email": "prajeev@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "Cabinet Minister – Industries & Law"
-    },
-    "KOCHI": {
-      "name": "K J MAXY",
-      "phone": "9447136374",
-      "email": "kjmaxy@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "ERNAKULAM": {
-      "name": "T J VINOD",
-      "phone": "9447044047",
-      "email": "tjvinod@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    },
-    "ANGAMALY": {
-      "name": "ROJI M JOHN",
-      "phone": "9971392134",
-      "email": "rojimjohn@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    },
-    "VYPEEN": {
-      "name": "K N UNNIKRISHNAN",
-      "phone": "9895025020",
-      "email": "knunnikrishnan@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "KUNNATHUNAD": {
-      "name": "P V SRINIJIN",
-      "phone": "9447155555",
-      "email": "pvsrinijin@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "THRIKKAKARA": {
-      "name": "UMA THOMAS",
-      "phone": "9495929595",
-      "email": "umathomas@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    },
-    "PARAVUR": {
-      "name": "V D SATHEESAN",
-      "phone": "9447018183",
-      "email": "vdsatheesan@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "Leader of Opposition"
-    }
+  {
+    "district": "MALAPPURAM",
+    "constituency": "NILAMBUR",
+    "name": "ARYADAN SHOUKATH",
+    "phone": "",
+    "email": "aryadanshoukath@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
   },
-  "KOZHIKODE": {
-    "KOZHIKODE SOUTH": {
-      "name": "AHAMMED DEVARKOVIL",
-      "phone": "9847005405",
-      "email": "ahammeddevarkovil@niyamasabha.nic.in",
-      "party": "The Indian National League (INL)",
-      "role": "MLA"
-    },
-    "ELATHUR": {
-      "name": "A K SASEENDRAN",
-      "phone": "9847001879",
-      "email": "aksaseendran@niyamasabha.nic.in",
-      "party": "Nationalist Congress Party",
-      "role": "Cabinet Minister – Forests & Wildlife"
-    },
-    "KODUVALLY": {
-      "name": "DR. M K MUNEER",
-      "phone": "9947041000",
-      "email": "dr.mkmuneer@niyamasabha.nic.in",
-      "party": "Indian Union Muslim League",
-      "role": "MLA"
-    },
-    "NADAPURAM": {
-      "name": "E K VIJAYAN",
-      "phone": "9447426175",
-      "email": "ekvijayan@niyamasabha.nic.in",
-      "party": "Communist Party Of India",
-      "role": "MLA"
-    },
-    "QUILANDY": {
-      "name": "KANATHIL JAMEELA",
-      "phone": "9447542026",
-      "email": "kanathiljameela@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "KUTTIADY": {
-      "name": "K P KUNHAMMED KUTTY MASTER",
-      "phone": "9400796466",
-      "email": "kunhammedkutty@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "KUNNAMANGALAM": {
-      "name": "P T A RAHIM",
-      "phone": "9847000000",
-      "email": "ptarahim@niyamasabha.nic.in",
-      "party": "Independent",
-      "role": "MLA"
-    },
-    "BEYPORE": {
-      "name": "P A MOHAMED RIYAS",
-      "phone": "9446373370",
-      "email": "pamohamedriyas@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "Cabinet Minister – Public Works & Tourism"
-    },
-    "KOZHIKODE NORTH": {
-      "name": "THOTTATHIL RAVEENDRAN",
-      "phone": "9446259898",
-      "email": "thottathilraveendran@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "PERAMBRA": {
-      "name": "T P RAMAKRISHNAN",
-      "phone": "9447913300",
-      "email": "tpramakrishnan@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "BALUSSERI": {
-      "name": "K M SACHINDEV",
-      "phone": "9961304198",
-      "email": "kmsachindev@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "THIRUVAMBADY": {
-      "name": "LINTO JOSEPH",
-      "phone": "9656039897",
-      "email": "lintojoseph@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "VATAKARA": {
-      "name": "K K REMA",
-      "phone": "9447000001",
-      "email": "kkrema@niyamasabha.nic.in",
-      "party": "Revolutionary Marxist Party",
-      "role": "MLA"
-    },
-    "PAYYOLI": {
-      "name": "KANATHIL JAMEELA",
-      "phone": "9447542026",
-      "email": "kanathiljameela@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    }
+  {
+    "district": "MALAPPURAM",
+    "constituency": "THAVANUR",
+    "name": "DR. K T JALEEL",
+    "phone": "9895073107",
+    "email": "dr.ktjaleel@niyamasabha.nic.in",
+    "party": "Independent",
+    "role": "Independent MLA"
   },
-  "PALAKKAD": {
-    "MALAMPUZHA": {
-      "name": "A PRABHAKARAN",
-      "phone": "9447772855",
-      "email": "aprabhakaran@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "NEMMARA": {
-      "name": "K BABU",
-      "phone": "9447514738",
-      "email": "kbabu@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "ALATHUR": {
-      "name": "K D PRASENAN",
-      "phone": "9495056056",
-      "email": "kdprasenan@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "CHITTUR": {
-      "name": "K KRISHNANKUTTY",
-      "phone": "9447012369",
-      "email": "kkrishnankutty@niyamasabha.nic.in",
-      "party": "Janata Dal (Secular)",
-      "role": "Cabinet Minister – Water Resources"
-    },
-    "OTTAPPALAM": {
-      "name": "K PREMKUMAR",
-      "phone": "9446727557",
-      "email": "kpremkumar@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "MANNARKKAD": {
-      "name": "N SAMSUDHEEN",
-      "phone": "9447340892",
-      "email": "nsamsudheen@niyamasabha.nic.in",
-      "party": "Indian Union Muslim League",
-      "role": "MLA"
-    },
-    "PATTAMBI": {
-      "name": "MUHAMMAD MUHSIN",
-      "phone": "9447000002",
-      "email": "muhsin@niyamasabha.nic.in",
-      "party": "Communist Party Of India",
-      "role": "MLA"
-    },
-    "SHORNUR": {
-      "name": "P MAMMIKKUTTY",
-      "phone": "7510131269",
-      "email": "pmammikkutty@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "THRITHALA": {
-      "name": "V T BALRAM",
-      "phone": "9447000003",
-      "email": "vtbalram@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    },
-    "TARUR": {
-      "name": "P P SUMOD",
-      "phone": "9633951004",
-      "email": "ppsumod@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "KONGAD": {
-      "name": "K SANTHAKUMARI",
-      "phone": "9847319606",
-      "email": "ksanthakumari@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "PALAKKAD": {
-      "name": "RAHUL MAMKOOTATHIL",
-      "phone": "",
-      "email": "rahulmamkootathil@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    }
+  {
+    "district": "MALAPPURAM",
+    "constituency": "TIRURANGADI",
+    "name": "K P A MAJEED",
+    "phone": "9447109014",
+    "email": "kpamajeed@niyamasabha.nic.in",
+    "party": "Indian Union Muslim League",
+    "role": "MLA"
   },
-  "KANNUR": {
-    "TALIPARAMBA": {
-      "name": "M V GOVINDAN MASTER",
-      "phone": "9447070569",
-      "email": "mvgovindanmaster@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "Cabinet Minister – Local Self Government (Rural)"
-    },
-    "IRIKKUR": {
-      "name": "SAJEEV JOSEPH",
-      "phone": "9447881506",
-      "email": "sajeevjoseph@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    },
-    "DHARMADAM": {
-      "name": "PINARAYI VIJAYAN",
-      "phone": "9447565656",
-      "email": "pinarayivijayan@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "Chief Minister"
-    },
-    "MATTANNUR": {
-      "name": "K K SHAILAJA TEACHER",
-      "phone": "7034430000",
-      "email": "kkshailajateacher@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "PAYYANNUR": {
-      "name": "T I MADHUSOODANAN",
-      "phone": "9447026670",
-      "email": "timadhusoodanan@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "KUTHUPARAMBA": {
-      "name": "K P MOHANAN",
-      "phone": "9496255500",
-      "email": "kpmohanan@niyamasabha.nic.in",
-      "party": "Loktantrik Janta Dal",
-      "role": "MLA"
-    },
-    "AZHIKODE": {
-      "name": "K V SUMESH",
-      "phone": "9447372151",
-      "email": "kvsumesh@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "THALASSERY": {
-      "name": "A N SHAMSEER",
-      "phone": "9447056803",
-      "email": "anshamseer@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "Speaker – Kerala Legislative Assembly"
-    },
-    "KALLIASSERI": {
-      "name": "M VIJIN",
-      "phone": "9847443943",
-      "email": "mvijin@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "PERAVOOR": {
-      "name": "SUNNY JOSEPH",
-      "phone": "9447046694",
-      "email": "sunnyjoseph@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    },
-    "KANNUR": {
-      "name": "RAMACHANDRAN KADANNAPPALLI",
-      "phone": "9447628800",
-      "email": "rkadannappalli@niyamasabha.nic.in",
-      "party": "Congress (Secular)",
-      "role": "MLA"
-    }
+  {
+    "district": "MALAPPURAM",
+    "constituency": "TIRUR",
+    "name": "KURUKKOLI MOIDEEN",
+    "phone": "9846812526",
+    "email": "kurukkolimoideen@niyamasabha.nic.in",
+    "party": "Indian Union Muslim League",
+    "role": "MLA"
   },
-  "KOLLAM": {
-    "ADOOR": {
-      "name": "CHITTAYAM GOPAKUMAR",
-      "phone": "9847103731",
-      "email": "chittayamgopakumar@niyamasabha.nic.in",
-      "party": "Communist Party Of India",
-      "role": "MLA"
-    },
-    "KARUNAGAPALLY": {
-      "name": "C R MAHESH",
-      "phone": "9847691443",
-      "email": "crmahesh@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    },
-    "CHAVARA": {
-      "name": "DR. SUJITH VIJAYANPILLAI",
-      "phone": "9495174310",
-      "email": "dr.sujithvijayanpillai@niyamasabha.nic.in",
-      "party": "Independent",
-      "role": "Independent MLA"
-    },
-    "CHATHANNOOR": {
-      "name": "G S JAYALAL",
-      "phone": "9447092323",
-      "email": "gsjayalal@niyamasabha.nic.in",
-      "party": "Communist Party Of India",
-      "role": "MLA"
-    },
-    "KUNDARA": {
-      "name": "P C VISHNUNADH",
-      "phone": "8848324672",
-      "email": "pcvishnunadh@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    },
-    "PATHANAPURAM": {
-      "name": "K B GANESH KUMAR",
-      "phone": "9447000004",
-      "email": "ganeshkumar@niyamasabha.nic.in",
-      "party": "Kerala Congress (B)",
-      "role": "Cabinet Minister – Transport"
-    },
-    "KOTTARAKKARA": {
-      "name": "K N BALAGOPAL",
-      "phone": "9446545577",
-      "email": "knbalagopal@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "Cabinet Minister – Finance"
-    },
-    "KUNNATHUR": {
-      "name": "KOVOOR KUNJUMON",
-      "phone": "9447500371",
-      "email": "kovoorkunjumon@niyamasabha.nic.in",
-      "party": "Independent",
-      "role": "Independent MLA"
-    },
-    "PUNALUR": {
-      "name": "P S SUPAL",
-      "phone": "9447101233",
-      "email": "pssupal@niyamasabha.nic.in",
-      "party": "Communist Party Of India",
-      "role": "MLA"
-    },
-    "KOLLAM": {
-      "name": "M MUKESH",
-      "phone": "9847072122",
-      "email": "mmukesh@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "ERAVIPURAM": {
-      "name": "M NOUSHAD",
-      "phone": "9447454097",
-      "email": "mnoushad@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    }
+  {
+    "district": "MALAPPURAM",
+    "constituency": "MANKADA",
+    "name": "MANJALAMKUZHI ALI",
+    "phone": "9447082166",
+    "email": "manjalamkuzhiali@niyamasabha.nic.in",
+    "party": "Indian Union Muslim League",
+    "role": "MLA"
   },
-  "ALAPPUZHA": {
-    "AROOR": {
-      "name": "DALEEMA",
-      "phone": "9847698317",
-      "email": "daleema@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "AMBALAPPUZHA": {
-      "name": "H SALAM",
-      "phone": "9447266423",
-      "email": "hsalam@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "CHERTHALA": {
-      "name": "P PRASAD",
-      "phone": "9446386719",
-      "email": "pprasad@niyamasabha.nic.in",
-      "party": "Communist Party Of India",
-      "role": "MLA"
-    },
-    "ALAPPUZHA": {
-      "name": "P P CHITHARANJAN",
-      "phone": "9447480112",
-      "email": "ppchitharanjan@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "KUTTANAD": {
-      "name": "THOMAS K THOMAS",
-      "phone": "9539239729",
-      "email": "thomaskthomas@niyamasabha.nic.in",
-      "party": "Nationalist Congress Party",
-      "role": "MLA"
-    },
-    "HARIPAD": {
-      "name": "RAMESH CHENNITHALA",
-      "phone": "9447777100",
-      "email": "rchennithala@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    },
-    "KAYAMKULAM": {
-      "name": "U PRATHIBHA",
-      "phone": "9495465666",
-      "email": "uprathibha@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "MAVELIKKARA": {
-      "name": "M S ARUN KUMAR",
-      "phone": "9846475521",
-      "email": "msarunkumar@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "CHENGANNUR": {
-      "name": "SAJI CHERIYAN",
-      "phone": "9447069379",
-      "email": "sajicheriyan@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "Cabinet Minister – Fisheries, Culture & Youth Affairs"
-    }
+  {
+    "district": "MALAPPURAM",
+    "constituency": "PERINTHALMANNA",
+    "name": "NAJEEB KANTHAPURAM",
+    "phone": "9846881772",
+    "email": "najeeb@niyamasabha.nic.in",
+    "party": "Indian Union Muslim League",
+    "role": "MLA"
   },
-  "PATHANAMTHITTA": {
-    "ADOOR": {
-      "name": "CHITTAYAM GOPAKUMAR",
-      "phone": "9847103731",
-      "email": "chittayamgopakumar@niyamasabha.nic.in",
-      "party": "Communist Party Of India",
-      "role": "MLA"
-    },
-    "KONNI": {
-      "name": "K U JENISH KUMAR",
-      "phone": "9446115329",
-      "email": "kujenishkumar@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "RANNI": {
-      "name": "PRAMOD NARAYAN",
-      "phone": "9447173000",
-      "email": "pramodnarayan@niyamasabha.nic.in",
-      "party": "Kerala Congress (M)",
-      "role": "MLA"
-    },
-    "THIRUVALLA": {
-      "name": "MATHEW T THOMAS",
-      "phone": "9447627700",
-      "email": "mathewthomas@niyamasabha.nic.in",
-      "party": "Janata Dal (Secular)",
-      "role": "MLA"
-    },
-    "ARANMULA": {
-      "name": "VEENA GEORGE",
-      "phone": "8547007032",
-      "email": "veenageorge@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "Cabinet Minister – Health & Family Welfare"
-    }
+  {
+    "district": "MALAPPURAM",
+    "constituency": "ERNAD",
+    "name": "P K BASHEER",
+    "phone": "9496606060",
+    "email": "pkbasheer@niyamasabha.nic.in",
+    "party": "Indian Union Muslim League",
+    "role": "MLA"
   },
-  "KOTTAYAM": {
-    "PUTHUPPALLY": {
-      "name": "CHANDY OOMMEN",
-      "phone": "9495957272",
-      "email": "chandyoommen@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    },
-    "VAIKOM": {
-      "name": "C K ASHA",
-      "phone": "9947178605",
-      "email": "ckasha@niyamasabha.nic.in",
-      "party": "Communist Party Of India",
-      "role": "MLA"
-    },
-    "CHANGANASSERY": {
-      "name": "JOB MAICHIL",
-      "phone": "9447797959",
-      "email": "jobmaichil@niyamasabha.nic.in",
-      "party": "Kerala Congress (M)",
-      "role": "MLA"
-    },
-    "KANJIRAPPALLY": {
-      "name": "DR. N JAYARAJ",
-      "phone": "9447464451",
-      "email": "dr.njayaraj@niyamasabha.nic.in",
-      "party": "Kerala Congress (M)",
-      "role": "MLA"
-    },
-    "PALA": {
-      "name": "MANI C KAPPAN",
-      "phone": "9447137219",
-      "email": "manickappan@niyamasabha.nic.in",
-      "party": "Independent",
-      "role": "Independent MLA"
-    },
-    "KADUTHURUTHY": {
-      "name": "MONS JOSEPH",
-      "phone": "9447306270",
-      "email": "monsjoseph@niyamasabha.nic.in",
-      "party": "Kerala Congress",
-      "role": "MLA"
-    },
-    "ETTUMANOOR": {
-      "name": "V N VASAVAN",
-      "phone": "9447050543",
-      "email": "vnvasavan@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "Cabinet Minister – Cooperation & Registration"
-    },
-    "POONJAR": {
-      "name": "SEBASTIAN KULATHUNKAL",
-      "phone": "9447054850",
-      "email": "sebastiankulathunkal@niyamasabha.nic.in",
-      "party": "Kerala Congress (M)",
-      "role": "MLA"
-    },
-    "KOTTAYAM": {
-      "name": "THIRUVANCHOOR RADHAKRISHNAN",
-      "phone": "9447018116",
-      "email": "thiruvanchoor@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    }
+  {
+    "district": "MALAPPURAM",
+    "constituency": "VENGARA",
+    "name": "P K KUNHALIKUTTY",
+    "phone": "9947020200",
+    "email": "pkkunhalikutty@niyamasabha.nic.in",
+    "party": "Indian Union Muslim League",
+    "role": "MLA"
   },
-  "IDUKKI": {
-    "DEVIKULAM": {
-      "name": "A RAJA",
-      "phone": "9495567123",
-      "email": "araja@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "UDUMBANCHOLA": {
-      "name": "M M MANI",
-      "phone": "9447512082",
-      "email": "mmmani@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "THODUPUZHA": {
-      "name": "P J JOSEPH",
-      "phone": "9495766600",
-      "email": "pjjoseph@niyamasabha.nic.in",
-      "party": "Kerala Congress",
-      "role": "MLA"
-    },
-    "PEERUMADE": {
-      "name": "VAZHOOR SOMAN",
-      "phone": "9447456639",
-      "email": "vazhoorsoman@niyamasabha.nic.in",
-      "party": "Communist Party Of India",
-      "role": "MLA"
-    },
-    "IDUKKI": {
-      "name": "ROSHY AUGUSTINE",
-      "phone": "9447021314",
-      "email": "roshyaugustine@niyamasabha.nic.in",
-      "party": "Kerala Congress (M)",
-      "role": "Cabinet Minister – Water Resources (Irrigation)"
-    }
+  {
+    "district": "MALAPPURAM",
+    "constituency": "PONNANI",
+    "name": "P NANDAKUMAR",
+    "phone": "9447134129",
+    "email": "pnandakumar@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
   },
-  "KASARAGOD": {
-    "MANJESHWAR": {
-      "name": "A K M ASHRAF",
-      "phone": "9995239701",
-      "email": "akmashraf@niyamasabha.nic.in",
-      "party": "Indian Union Muslim League",
-      "role": "MLA"
-    },
-    "UDMA": {
-      "name": "C H KUNHAMBU",
-      "phone": "9447489707",
-      "email": "chkunhambu@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "KANHANGAD": {
-      "name": "E CHANDRASEKHARAN",
-      "phone": "9447672200",
-      "email": "echandrasekharan@niyamasabha.nic.in",
-      "party": "Communist Party Of India",
-      "role": "MLA"
-    },
-    "TRIKARIPUR": {
-      "name": "M RAJAGOPALAN",
-      "phone": "9446168577",
-      "email": "mrajagopalan@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "KASARAGOD": {
-      "name": "N A NELLIKKUNNU",
-      "phone": "9447010338",
-      "email": "kasaragod-mla@niyamasabha.nic.in",
-      "party": "Indian Union Muslim League",
-      "role": "MLA"
-    }
+  {
+    "district": "MALAPPURAM",
+    "constituency": "KOTTAKKAL",
+    "name": "PROF. ABID HUSSAIN THANGAL",
+    "phone": "9447282329",
+    "email": "abidhussain@niyamasabha.nic.in",
+    "party": "Indian Union Muslim League",
+    "role": "MLA"
   },
-  "WAYANAD": {
-    "SULTHANBATHERY": {
-      "name": "I C BALAKRISHNAN",
-      "phone": "9947675080",
-      "email": "icbalakrishnan@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    },
-    "MANANTHAVADY": {
-      "name": "O R KELU",
-      "phone": "9446545146",
-      "email": "orkelu@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "Cabinet Minister – SC/ST & Backward Classes Welfare"
-    },
-    "KALPETTA": {
-      "name": "T SIDDIQU",
-      "phone": "9446060303",
-      "email": "tsiddiqu@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    }
+  {
+    "district": "MALAPPURAM",
+    "constituency": "MALAPPURAM",
+    "name": "P UBAIDULLA",
+    "phone": "9447353079",
+    "email": "pubaidulla@niyamasabha.nic.in",
+    "party": "Indian Union Muslim League",
+    "role": "MLA"
   },
-  "THIRUVANANTHAPURAM": {
-    "THIRUVANANTHAPURAM": {
-      "name": "ANTONY RAJU",
-      "phone": "9446090902",
-      "email": "antonyraju@niyamasabha.nic.in",
-      "party": "Janadhipathiya Kerala Congress",
-      "role": "MLA"
-    },
-    "PARASSALA": {
-      "name": "C K HAREENDRAN",
-      "phone": "9447696005",
-      "email": "ckhareendran@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "VAMANAPURAM": {
-      "name": "D K MURALI",
-      "phone": "9447428205",
-      "email": "dkmurali@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "NEDUMANGAD": {
-      "name": "G R ANIL",
-      "phone": "9447800304",
-      "email": "granil@niyamasabha.nic.in",
-      "party": "Communist Party Of India",
-      "role": "Cabinet Minister – Food & Civil Supplies"
-    },
-    "ARUVIKKARA": {
-      "name": "G STEPHEN",
-      "phone": "9447235374",
-      "email": "gstephen@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "KATTAKKADA": {
-      "name": "I B SATHEESH",
-      "phone": "9446558430",
-      "email": "ibsatheesh@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "KAZHAKOOTTAM": {
-      "name": "KADAKAMPALLY SURENDRAN",
-      "phone": "9447048543",
-      "email": "kadakampallysurendran@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "Cabinet Minister – Devaswom"
-    },
-    "NEYYATTINKARA": {
-      "name": "K ANSALAN",
-      "phone": "9995191282",
-      "email": "kansalan@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "ATTINGAL": {
-      "name": "O S AMBIKA",
-      "phone": "9605232496",
-      "email": "osambika@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "VARKALA": {
-      "name": "V JOY",
-      "phone": "9447206270",
-      "email": "vjoy@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "VATTIYOORKAVU": {
-      "name": "V K PRASANTH",
-      "phone": "9447260664",
-      "email": "vkprasanth@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "MLA"
-    },
-    "NEMOM": {
-      "name": "V SIVANKUTTY",
-      "phone": "9846660986",
-      "email": "vsivankutty@niyamasabha.nic.in",
-      "party": "Communist Party Of India(Marxist)",
-      "role": "Cabinet Minister – General Education & Labour"
-    },
-    "CHIRAYINKEEZHU": {
-      "name": "V SASI",
-      "phone": "9447411002",
-      "email": "vsasi@niyamasabha.nic.in",
-      "party": "Communist Party Of India",
-      "role": "MLA"
-    },
-    "KOVALAM": {
-      "name": "M VINCENT",
-      "phone": "9447000005",
-      "email": "mvincent@niyamasabha.nic.in",
-      "party": "Indian National Congress",
-      "role": "MLA"
-    }
+  {
+    "district": "MALAPPURAM",
+    "constituency": "KONDOTTY",
+    "name": "T V IBRAHIM",
+    "phone": "9446774400",
+    "email": "tvibrahim@niyamasabha.nic.in",
+    "party": "Indian Union Muslim League",
+    "role": "MLA"
+  },
+  {
+    "district": "MALAPPURAM",
+    "constituency": "MANJERI",
+    "name": "U A LATHEEF",
+    "phone": "9447477970",
+    "email": "ualatheef@niyamasabha.nic.in",
+    "party": "Indian Union Muslim League",
+    "role": "MLA"
+  },
+  {
+    "district": "MALAPPURAM",
+    "constituency": "TANUR",
+    "name": "V ABDURAHIMAN",
+    "phone": "9447121485",
+    "email": "vabdurahiman@niyamasabha.nic.in",
+    "party": "National Secular Conference",
+    "role": "MLA"
+  },
+  {
+    "district": "THRISSUR",
+    "constituency": "KUNNAMKULAM",
+    "name": "A C MOIDEEN",
+    "phone": "9447978800",
+    "email": "acmoideen@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "THRISSUR",
+    "constituency": "NATTIKA",
+    "name": "C C MUKUNDAN",
+    "phone": "9947071105",
+    "email": "ccmukundan@niyamasabha.nic.in",
+    "party": "Communist Party Of India",
+    "role": "MLA"
+  },
+  {
+    "district": "THRISSUR",
+    "constituency": "KAIPAMANGALAM",
+    "name": "E T TAISON MASTER",
+    "phone": "9846958317",
+    "email": "etttaisonmaster@niyamasabha.nic.in",
+    "party": "Communist Party Of India",
+    "role": "MLA"
+  },
+  {
+    "district": "THRISSUR",
+    "constituency": "PUTHUKKAD",
+    "name": "K K RAMACHANDRAN",
+    "phone": "9846186095",
+    "email": "kkramachandran@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "THRISSUR",
+    "constituency": "GURUVAYOOR",
+    "name": "N K AKBAR",
+    "phone": "9447077777",
+    "email": "nkakbar@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "THRISSUR",
+    "constituency": "OLLUR",
+    "name": "K RAJAN",
+    "phone": "9447011111",
+    "email": "krajan@niyamasabha.nic.in",
+    "party": "Communist Party Of India",
+    "role": "Cabinet Minister – Revenue"
+  },
+  {
+    "district": "THRISSUR",
+    "constituency": "THRISSUR",
+    "name": "P BALACHANDRAN",
+    "phone": "9847581634",
+    "email": "pbalachandran@niyamasabha.nic.in",
+    "party": "Communist Party Of India",
+    "role": "MLA"
+  },
+  {
+    "district": "THRISSUR",
+    "constituency": "IRINJALAKUDA",
+    "name": "PROF. R BINDU",
+    "phone": "9496371755",
+    "email": "rbindu@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "Cabinet Minister – Higher Education & Social Justice"
+  },
+  {
+    "district": "THRISSUR",
+    "constituency": "CHALAKUDY",
+    "name": "SANEESHKUMAR JOSEPH",
+    "phone": "9495981538",
+    "email": "saneeshkumar@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "THRISSUR",
+    "constituency": "MANALUR",
+    "name": "MURALI PERUNELLY",
+    "phone": "9447015284",
+    "email": "muraliperunelly@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "THRISSUR",
+    "constituency": "KODUNGALLUR",
+    "name": "V R SUNIL KUMAR",
+    "phone": "9656965759",
+    "email": "vrsunilkumar@niyamasabha.nic.in",
+    "party": "Communist Party Of India",
+    "role": "MLA"
+  },
+  {
+    "district": "THRISSUR",
+    "constituency": "WADAKKANCHERY",
+    "name": "XAVIER CHITTILAPPILLY",
+    "phone": "9446228486",
+    "email": "xavierchittilappilly@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "THRISSUR",
+    "constituency": "CHELAKKARA",
+    "name": "U R PRADEEP",
+    "phone": "",
+    "email": "urpradeep@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "ERNAKULAM",
+    "constituency": "ALUVA",
+    "name": "ANWAR SADATH",
+    "phone": "9846887886",
+    "email": "anwarsadath@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "ERNAKULAM",
+    "constituency": "PIRAVOM",
+    "name": "ANOOP JACOB",
+    "phone": "9847069671",
+    "email": "anoopjacob@niyamasabha.nic.in",
+    "party": "Kerala Congress (Jacob)",
+    "role": "MLA"
+  },
+  {
+    "district": "ERNAKULAM",
+    "constituency": "KOTHAMANGALAM",
+    "name": "ANTONY JOHN",
+    "phone": "9946640994",
+    "email": "antonyjohn@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "ERNAKULAM",
+    "constituency": "MUVATTUPUZHA",
+    "name": "DR. MATHEW KUZHALNADAN",
+    "phone": "9495974044",
+    "email": "dr.mathewkuzhalnadan@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "ERNAKULAM",
+    "constituency": "PERUMBAVOOR",
+    "name": "ELDOSE P KUNNAPILLIL",
+    "phone": "9446300547",
+    "email": "eldosepkunnapillil@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "ERNAKULAM",
+    "constituency": "THRIPUNITHURA",
+    "name": "K BABU",
+    "phone": "9447048418",
+    "email": "kbabu@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "ERNAKULAM",
+    "constituency": "KALAMASSERY",
+    "name": "P RAJEEV",
+    "phone": "9447073744",
+    "email": "prajeev@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "Cabinet Minister – Industries & Law"
+  },
+  {
+    "district": "ERNAKULAM",
+    "constituency": "KOCHI",
+    "name": "K J MAXY",
+    "phone": "9447136374",
+    "email": "kjmaxy@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "ERNAKULAM",
+    "constituency": "ERNAKULAM",
+    "name": "T J VINOD",
+    "phone": "9447044047",
+    "email": "tjvinod@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "ERNAKULAM",
+    "constituency": "ANGAMALY",
+    "name": "ROJI M JOHN",
+    "phone": "9971392134",
+    "email": "rojimjohn@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "ERNAKULAM",
+    "constituency": "VYPEEN",
+    "name": "K N UNNIKRISHNAN",
+    "phone": "9895025020",
+    "email": "knunnikrishnan@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "ERNAKULAM",
+    "constituency": "KUNNATHUNAD",
+    "name": "P V SRINIJIN",
+    "phone": "9447155555",
+    "email": "pvsrinijin@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "ERNAKULAM",
+    "constituency": "THRIKKAKARA",
+    "name": "UMA THOMAS",
+    "phone": "9495929595",
+    "email": "umathomas@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "ERNAKULAM",
+    "constituency": "PARAVUR",
+    "name": "V D SATHEESAN",
+    "phone": "9447018183",
+    "email": "vdsatheesan@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "Leader of Opposition"
+  },
+  {
+    "district": "KOZHIKODE",
+    "constituency": "KOZHIKODE SOUTH",
+    "name": "AHAMMED DEVARKOVIL",
+    "phone": "9847005405",
+    "email": "ahammeddevarkovil@niyamasabha.nic.in",
+    "party": "The Indian National League (INL)",
+    "role": "MLA"
+  },
+  {
+    "district": "KOZHIKODE",
+    "constituency": "ELATHUR",
+    "name": "A K SASEENDRAN",
+    "phone": "9847001879",
+    "email": "aksaseendran@niyamasabha.nic.in",
+    "party": "Nationalist Congress Party",
+    "role": "Cabinet Minister – Forests & Wildlife"
+  },
+  {
+    "district": "KOZHIKODE",
+    "constituency": "KODUVALLY",
+    "name": "DR. M K MUNEER",
+    "phone": "9947041000",
+    "email": "dr.mkmuneer@niyamasabha.nic.in",
+    "party": "Indian Union Muslim League",
+    "role": "MLA"
+  },
+  {
+    "district": "KOZHIKODE",
+    "constituency": "NADAPURAM",
+    "name": "E K VIJAYAN",
+    "phone": "9447426175",
+    "email": "ekvijayan@niyamasabha.nic.in",
+    "party": "Communist Party Of India",
+    "role": "MLA"
+  },
+  {
+    "district": "KOZHIKODE",
+    "constituency": "QUILANDY",
+    "name": "KANATHIL JAMEELA",
+    "phone": "9447542026",
+    "email": "kanathiljameela@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "KOZHIKODE",
+    "constituency": "KUTTIADY",
+    "name": "K P KUNHAMMED KUTTY MASTER",
+    "phone": "9400796466",
+    "email": "kunhammedkutty@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "KOZHIKODE",
+    "constituency": "KUNNAMANGALAM",
+    "name": "P T A RAHIM",
+    "phone": "9847000000",
+    "email": "ptarahim@niyamasabha.nic.in",
+    "party": "Independent",
+    "role": "MLA"
+  },
+  {
+    "district": "KOZHIKODE",
+    "constituency": "BEYPORE",
+    "name": "P A MOHAMED RIYAS",
+    "phone": "9446373370",
+    "email": "pamohamedriyas@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "Cabinet Minister – Public Works & Tourism"
+  },
+  {
+    "district": "KOZHIKODE",
+    "constituency": "KOZHIKODE NORTH",
+    "name": "THOTTATHIL RAVEENDRAN",
+    "phone": "9446259898",
+    "email": "thottathilraveendran@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "KOZHIKODE",
+    "constituency": "PERAMBRA",
+    "name": "T P RAMAKRISHNAN",
+    "phone": "9447913300",
+    "email": "tpramakrishnan@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "KOZHIKODE",
+    "constituency": "BALUSSERI",
+    "name": "K M SACHINDEV",
+    "phone": "9961304198",
+    "email": "kmsachindev@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "KOZHIKODE",
+    "constituency": "THIRUVAMBADY",
+    "name": "LINTO JOSEPH",
+    "phone": "9656039897",
+    "email": "lintojoseph@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "KOZHIKODE",
+    "constituency": "VATAKARA",
+    "name": "K K REMA",
+    "phone": "9447000001",
+    "email": "kkrema@niyamasabha.nic.in",
+    "party": "Revolutionary Marxist Party",
+    "role": "MLA"
+  },
+  {
+    "district": "KOZHIKODE",
+    "constituency": "PAYYOLI",
+    "name": "KANATHIL JAMEELA",
+    "phone": "9447542026",
+    "email": "kanathiljameela@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "PALAKKAD",
+    "constituency": "MALAMPUZHA",
+    "name": "A PRABHAKARAN",
+    "phone": "9447772855",
+    "email": "aprabhakaran@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "PALAKKAD",
+    "constituency": "NEMMARA",
+    "name": "K BABU",
+    "phone": "9447514738",
+    "email": "kbabu@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "PALAKKAD",
+    "constituency": "ALATHUR",
+    "name": "K D PRASENAN",
+    "phone": "9495056056",
+    "email": "kdprasenan@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "PALAKKAD",
+    "constituency": "CHITTUR",
+    "name": "K KRISHNANKUTTY",
+    "phone": "9447012369",
+    "email": "kkrishnankutty@niyamasabha.nic.in",
+    "party": "Janata Dal (Secular)",
+    "role": "Cabinet Minister – Water Resources"
+  },
+  {
+    "district": "PALAKKAD",
+    "constituency": "OTTAPPALAM",
+    "name": "K PREMKUMAR",
+    "phone": "9446727557",
+    "email": "kpremkumar@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "PALAKKAD",
+    "constituency": "MANNARKKAD",
+    "name": "N SAMSUDHEEN",
+    "phone": "9447340892",
+    "email": "nsamsudheen@niyamasabha.nic.in",
+    "party": "Indian Union Muslim League",
+    "role": "MLA"
+  },
+  {
+    "district": "PALAKKAD",
+    "constituency": "PATTAMBI",
+    "name": "MUHAMMAD MUHSIN",
+    "phone": "9447000002",
+    "email": "muhsin@niyamasabha.nic.in",
+    "party": "Communist Party Of India",
+    "role": "MLA"
+  },
+  {
+    "district": "PALAKKAD",
+    "constituency": "SHORNUR",
+    "name": "P MAMMIKKUTTY",
+    "phone": "7510131269",
+    "email": "pmammikkutty@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "PALAKKAD",
+    "constituency": "THRITHALA",
+    "name": "V T BALRAM",
+    "phone": "9447000003",
+    "email": "vtbalram@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "PALAKKAD",
+    "constituency": "TARUR",
+    "name": "P P SUMOD",
+    "phone": "9633951004",
+    "email": "ppsumod@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "PALAKKAD",
+    "constituency": "KONGAD",
+    "name": "K SANTHAKUMARI",
+    "phone": "9847319606",
+    "email": "ksanthakumari@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "PALAKKAD",
+    "constituency": "PALAKKAD",
+    "name": "RAHUL MAMKOOTATHIL",
+    "phone": "",
+    "email": "rahulmamkootathil@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "KANNUR",
+    "constituency": "TALIPARAMBA",
+    "name": "M V GOVINDAN MASTER",
+    "phone": "9447070569",
+    "email": "mvgovindanmaster@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "Cabinet Minister – Local Self Government (Rural)"
+  },
+  {
+    "district": "KANNUR",
+    "constituency": "IRIKKUR",
+    "name": "SAJEEV JOSEPH",
+    "phone": "9447881506",
+    "email": "sajeevjoseph@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "KANNUR",
+    "constituency": "DHARMADAM",
+    "name": "PINARAYI VIJAYAN",
+    "phone": "9447565656",
+    "email": "pinarayivijayan@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "Chief Minister"
+  },
+  {
+    "district": "KANNUR",
+    "constituency": "MATTANNUR",
+    "name": "K K SHAILAJA TEACHER",
+    "phone": "7034430000",
+    "email": "kkshailajateacher@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "KANNUR",
+    "constituency": "PAYYANNUR",
+    "name": "T I MADHUSOODANAN",
+    "phone": "9447026670",
+    "email": "timadhusoodanan@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "KANNUR",
+    "constituency": "KUTHUPARAMBA",
+    "name": "K P MOHANAN",
+    "phone": "9496255500",
+    "email": "kpmohanan@niyamasabha.nic.in",
+    "party": "Loktantrik Janta Dal",
+    "role": "MLA"
+  },
+  {
+    "district": "KANNUR",
+    "constituency": "AZHIKODE",
+    "name": "K V SUMESH",
+    "phone": "9447372151",
+    "email": "kvsumesh@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "KANNUR",
+    "constituency": "THALASSERY",
+    "name": "A N SHAMSEER",
+    "phone": "9447056803",
+    "email": "anshamseer@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "Speaker – Kerala Legislative Assembly"
+  },
+  {
+    "district": "KANNUR",
+    "constituency": "KALLIASSERI",
+    "name": "M VIJIN",
+    "phone": "9847443943",
+    "email": "mvijin@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "KANNUR",
+    "constituency": "PERAVOOR",
+    "name": "SUNNY JOSEPH",
+    "phone": "9447046694",
+    "email": "sunnyjoseph@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "KANNUR",
+    "constituency": "KANNUR",
+    "name": "RAMACHANDRAN KADANNAPPALLI",
+    "phone": "9447628800",
+    "email": "rkadannappalli@niyamasabha.nic.in",
+    "party": "Congress (Secular)",
+    "role": "MLA"
+  },
+  {
+    "district": "KOLLAM",
+    "constituency": "ADOOR",
+    "name": "CHITTAYAM GOPAKUMAR",
+    "phone": "9847103731",
+    "email": "chittayamgopakumar@niyamasabha.nic.in",
+    "party": "Communist Party Of India",
+    "role": "MLA"
+  },
+  {
+    "district": "KOLLAM",
+    "constituency": "KARUNAGAPALLY",
+    "name": "C R MAHESH",
+    "phone": "9847691443",
+    "email": "crmahesh@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "KOLLAM",
+    "constituency": "CHAVARA",
+    "name": "DR. SUJITH VIJAYANPILLAI",
+    "phone": "9495174310",
+    "email": "dr.sujithvijayanpillai@niyamasabha.nic.in",
+    "party": "Independent",
+    "role": "Independent MLA"
+  },
+  {
+    "district": "KOLLAM",
+    "constituency": "CHATHANNOOR",
+    "name": "G S JAYALAL",
+    "phone": "9447092323",
+    "email": "gsjayalal@niyamasabha.nic.in",
+    "party": "Communist Party Of India",
+    "role": "MLA"
+  },
+  {
+    "district": "KOLLAM",
+    "constituency": "KUNDARA",
+    "name": "P C VISHNUNADH",
+    "phone": "8848324672",
+    "email": "pcvishnunadh@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "KOLLAM",
+    "constituency": "PATHANAPURAM",
+    "name": "K B GANESH KUMAR",
+    "phone": "9447000004",
+    "email": "ganeshkumar@niyamasabha.nic.in",
+    "party": "Kerala Congress (B)",
+    "role": "Cabinet Minister – Transport"
+  },
+  {
+    "district": "KOLLAM",
+    "constituency": "KOTTARAKKARA",
+    "name": "K N BALAGOPAL",
+    "phone": "9446545577",
+    "email": "knbalagopal@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "Cabinet Minister – Finance"
+  },
+  {
+    "district": "KOLLAM",
+    "constituency": "KUNNATHUR",
+    "name": "KOVOOR KUNJUMON",
+    "phone": "9447500371",
+    "email": "kovoorkunjumon@niyamasabha.nic.in",
+    "party": "Independent",
+    "role": "Independent MLA"
+  },
+  {
+    "district": "KOLLAM",
+    "constituency": "PUNALUR",
+    "name": "P S SUPAL",
+    "phone": "9447101233",
+    "email": "pssupal@niyamasabha.nic.in",
+    "party": "Communist Party Of India",
+    "role": "MLA"
+  },
+  {
+    "district": "KOLLAM",
+    "constituency": "KOLLAM",
+    "name": "M MUKESH",
+    "phone": "9847072122",
+    "email": "mmukesh@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "KOLLAM",
+    "constituency": "ERAVIPURAM",
+    "name": "M NOUSHAD",
+    "phone": "9447454097",
+    "email": "mnoushad@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "ALAPPUZHA",
+    "constituency": "AROOR",
+    "name": "DALEEMA",
+    "phone": "9847698317",
+    "email": "daleema@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "ALAPPUZHA",
+    "constituency": "AMBALAPPUZHA",
+    "name": "H SALAM",
+    "phone": "9447266423",
+    "email": "hsalam@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "ALAPPUZHA",
+    "constituency": "CHERTHALA",
+    "name": "P PRASAD",
+    "phone": "9446386719",
+    "email": "pprasad@niyamasabha.nic.in",
+    "party": "Communist Party Of India",
+    "role": "MLA"
+  },
+  {
+    "district": "ALAPPUZHA",
+    "constituency": "ALAPPUZHA",
+    "name": "P P CHITHARANJAN",
+    "phone": "9447480112",
+    "email": "ppchitharanjan@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "ALAPPUZHA",
+    "constituency": "KUTTANAD",
+    "name": "THOMAS K THOMAS",
+    "phone": "9539239729",
+    "email": "thomaskthomas@niyamasabha.nic.in",
+    "party": "Nationalist Congress Party",
+    "role": "MLA"
+  },
+  {
+    "district": "ALAPPUZHA",
+    "constituency": "HARIPAD",
+    "name": "RAMESH CHENNITHALA",
+    "phone": "9447777100",
+    "email": "rchennithala@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "ALAPPUZHA",
+    "constituency": "KAYAMKULAM",
+    "name": "U PRATHIBHA",
+    "phone": "9495465666",
+    "email": "uprathibha@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "ALAPPUZHA",
+    "constituency": "MAVELIKKARA",
+    "name": "M S ARUN KUMAR",
+    "phone": "9846475521",
+    "email": "msarunkumar@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "ALAPPUZHA",
+    "constituency": "CHENGANNUR",
+    "name": "SAJI CHERIYAN",
+    "phone": "9447069379",
+    "email": "sajicheriyan@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "Cabinet Minister – Fisheries, Culture & Youth Affairs"
+  },
+  {
+    "district": "PATHANAMTHITTA",
+    "constituency": "ADOOR",
+    "name": "CHITTAYAM GOPAKUMAR",
+    "phone": "9847103731",
+    "email": "chittayamgopakumar@niyamasabha.nic.in",
+    "party": "Communist Party Of India",
+    "role": "MLA"
+  },
+  {
+    "district": "PATHANAMTHITTA",
+    "constituency": "KONNI",
+    "name": "K U JENISH KUMAR",
+    "phone": "9446115329",
+    "email": "kujenishkumar@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "PATHANAMTHITTA",
+    "constituency": "RANNI",
+    "name": "PRAMOD NARAYAN",
+    "phone": "9447173000",
+    "email": "pramodnarayan@niyamasabha.nic.in",
+    "party": "Kerala Congress (M)",
+    "role": "MLA"
+  },
+  {
+    "district": "PATHANAMTHITTA",
+    "constituency": "THIRUVALLA",
+    "name": "MATHEW T THOMAS",
+    "phone": "9447627700",
+    "email": "mathewthomas@niyamasabha.nic.in",
+    "party": "Janata Dal (Secular)",
+    "role": "MLA"
+  },
+  {
+    "district": "PATHANAMTHITTA",
+    "constituency": "ARANMULA",
+    "name": "VEENA GEORGE",
+    "phone": "8547007032",
+    "email": "veenageorge@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "Cabinet Minister – Health & Family Welfare"
+  },
+  {
+    "district": "KOTTAYAM",
+    "constituency": "PUTHUPPALLY",
+    "name": "CHANDY OOMMEN",
+    "phone": "9495957272",
+    "email": "chandyoommen@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "KOTTAYAM",
+    "constituency": "VAIKOM",
+    "name": "C K ASHA",
+    "phone": "9947178605",
+    "email": "ckasha@niyamasabha.nic.in",
+    "party": "Communist Party Of India",
+    "role": "MLA"
+  },
+  {
+    "district": "KOTTAYAM",
+    "constituency": "CHANGANASSERY",
+    "name": "JOB MAICHIL",
+    "phone": "9447797959",
+    "email": "jobmaichil@niyamasabha.nic.in",
+    "party": "Kerala Congress (M)",
+    "role": "MLA"
+  },
+  {
+    "district": "KOTTAYAM",
+    "constituency": "KANJIRAPPALLY",
+    "name": "DR. N JAYARAJ",
+    "phone": "9447464451",
+    "email": "dr.njayaraj@niyamasabha.nic.in",
+    "party": "Kerala Congress (M)",
+    "role": "MLA"
+  },
+  {
+    "district": "KOTTAYAM",
+    "constituency": "PALA",
+    "name": "MANI C KAPPAN",
+    "phone": "9447137219",
+    "email": "manickappan@niyamasabha.nic.in",
+    "party": "Independent",
+    "role": "Independent MLA"
+  },
+  {
+    "district": "KOTTAYAM",
+    "constituency": "KADUTHURUTHY",
+    "name": "MONS JOSEPH",
+    "phone": "9447306270",
+    "email": "monsjoseph@niyamasabha.nic.in",
+    "party": "Kerala Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "KOTTAYAM",
+    "constituency": "ETTUMANOOR",
+    "name": "V N VASAVAN",
+    "phone": "9447050543",
+    "email": "vnvasavan@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "Cabinet Minister – Cooperation & Registration"
+  },
+  {
+    "district": "KOTTAYAM",
+    "constituency": "POONJAR",
+    "name": "SEBASTIAN KULATHUNKAL",
+    "phone": "9447054850",
+    "email": "sebastiankulathunkal@niyamasabha.nic.in",
+    "party": "Kerala Congress (M)",
+    "role": "MLA"
+  },
+  {
+    "district": "KOTTAYAM",
+    "constituency": "KOTTAYAM",
+    "name": "THIRUVANCHOOR RADHAKRISHNAN",
+    "phone": "9447018116",
+    "email": "thiruvanchoor@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "IDUKKI",
+    "constituency": "DEVIKULAM",
+    "name": "A RAJA",
+    "phone": "9495567123",
+    "email": "araja@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "IDUKKI",
+    "constituency": "UDUMBANCHOLA",
+    "name": "M M MANI",
+    "phone": "9447512082",
+    "email": "mmmani@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "IDUKKI",
+    "constituency": "THODUPUZHA",
+    "name": "P J JOSEPH",
+    "phone": "9495766600",
+    "email": "pjjoseph@niyamasabha.nic.in",
+    "party": "Kerala Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "IDUKKI",
+    "constituency": "PEERUMADE",
+    "name": "VAZHOOR SOMAN",
+    "phone": "9447456639",
+    "email": "vazhoorsoman@niyamasabha.nic.in",
+    "party": "Communist Party Of India",
+    "role": "MLA"
+  },
+  {
+    "district": "IDUKKI",
+    "constituency": "IDUKKI",
+    "name": "ROSHY AUGUSTINE",
+    "phone": "9447021314",
+    "email": "roshyaugustine@niyamasabha.nic.in",
+    "party": "Kerala Congress (M)",
+    "role": "Cabinet Minister – Water Resources (Irrigation)"
+  },
+  {
+    "district": "KASARAGOD",
+    "constituency": "MANJESHWAR",
+    "name": "A K M ASHRAF",
+    "phone": "9995239701",
+    "email": "akmashraf@niyamasabha.nic.in",
+    "party": "Indian Union Muslim League",
+    "role": "MLA"
+  },
+  {
+    "district": "KASARAGOD",
+    "constituency": "UDMA",
+    "name": "C H KUNHAMBU",
+    "phone": "9447489707",
+    "email": "chkunhambu@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "KASARAGOD",
+    "constituency": "KANHANGAD",
+    "name": "E CHANDRASEKHARAN",
+    "phone": "9447672200",
+    "email": "echandrasekharan@niyamasabha.nic.in",
+    "party": "Communist Party Of India",
+    "role": "MLA"
+  },
+  {
+    "district": "KASARAGOD",
+    "constituency": "TRIKARIPUR",
+    "name": "M RAJAGOPALAN",
+    "phone": "9446168577",
+    "email": "mrajagopalan@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "KASARAGOD",
+    "constituency": "KASARAGOD",
+    "name": "N A NELLIKKUNNU",
+    "phone": "9447010338",
+    "email": "kasaragod-mla@niyamasabha.nic.in",
+    "party": "Indian Union Muslim League",
+    "role": "MLA"
+  },
+  {
+    "district": "WAYANAD",
+    "constituency": "SULTHANBATHERY",
+    "name": "I C BALAKRISHNAN",
+    "phone": "9947675080",
+    "email": "icbalakrishnan@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "WAYANAD",
+    "constituency": "MANANTHAVADY",
+    "name": "O R KELU",
+    "phone": "9446545146",
+    "email": "orkelu@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "Cabinet Minister – SC/ST & Backward Classes Welfare"
+  },
+  {
+    "district": "WAYANAD",
+    "constituency": "KALPETTA",
+    "name": "T SIDDIQU",
+    "phone": "9446060303",
+    "email": "tsiddiqu@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "THIRUVANANTHAPURAM",
+    "constituency": "THIRUVANANTHAPURAM",
+    "name": "ANTONY RAJU",
+    "phone": "9446090902",
+    "email": "antonyraju@niyamasabha.nic.in",
+    "party": "Janadhipathiya Kerala Congress",
+    "role": "MLA"
+  },
+  {
+    "district": "THIRUVANANTHAPURAM",
+    "constituency": "PARASSALA",
+    "name": "C K HAREENDRAN",
+    "phone": "9447696005",
+    "email": "ckhareendran@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "THIRUVANANTHAPURAM",
+    "constituency": "VAMANAPURAM",
+    "name": "D K MURALI",
+    "phone": "9447428205",
+    "email": "dkmurali@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "THIRUVANANTHAPURAM",
+    "constituency": "NEDUMANGAD",
+    "name": "G R ANIL",
+    "phone": "9447800304",
+    "email": "granil@niyamasabha.nic.in",
+    "party": "Communist Party Of India",
+    "role": "Cabinet Minister – Food & Civil Supplies"
+  },
+  {
+    "district": "THIRUVANANTHAPURAM",
+    "constituency": "ARUVIKKARA",
+    "name": "G STEPHEN",
+    "phone": "9447235374",
+    "email": "gstephen@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "THIRUVANANTHAPURAM",
+    "constituency": "KATTAKKADA",
+    "name": "I B SATHEESH",
+    "phone": "9446558430",
+    "email": "ibsatheesh@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "THIRUVANANTHAPURAM",
+    "constituency": "KAZHAKOOTTAM",
+    "name": "KADAKAMPALLY SURENDRAN",
+    "phone": "9447048543",
+    "email": "kadakampallysurendran@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "Cabinet Minister – Devaswom"
+  },
+  {
+    "district": "THIRUVANANTHAPURAM",
+    "constituency": "NEYYATTINKARA",
+    "name": "K ANSALAN",
+    "phone": "9995191282",
+    "email": "kansalan@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "THIRUVANANTHAPURAM",
+    "constituency": "ATTINGAL",
+    "name": "O S AMBIKA",
+    "phone": "9605232496",
+    "email": "osambika@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "THIRUVANANTHAPURAM",
+    "constituency": "VARKALA",
+    "name": "V JOY",
+    "phone": "9447206270",
+    "email": "vjoy@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "THIRUVANANTHAPURAM",
+    "constituency": "VATTIYOORKAVU",
+    "name": "V K PRASANTH",
+    "phone": "9447260664",
+    "email": "vkprasanth@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "MLA"
+  },
+  {
+    "district": "THIRUVANANTHAPURAM",
+    "constituency": "NEMOM",
+    "name": "V SIVANKUTTY",
+    "phone": "9846660986",
+    "email": "vsivankutty@niyamasabha.nic.in",
+    "party": "Communist Party Of India(Marxist)",
+    "role": "Cabinet Minister – General Education & Labour"
+  },
+  {
+    "district": "THIRUVANANTHAPURAM",
+    "constituency": "CHIRAYINKEEZHU",
+    "name": "V SASI",
+    "phone": "9447411002",
+    "email": "vsasi@niyamasabha.nic.in",
+    "party": "Communist Party Of India",
+    "role": "MLA"
+  },
+  {
+    "district": "THIRUVANANTHAPURAM",
+    "constituency": "KOVALAM",
+    "name": "M VINCENT",
+    "phone": "9447000005",
+    "email": "mvincent@niyamasabha.nic.in",
+    "party": "Indian National Congress",
+    "role": "MLA"
   }
-}
+]
