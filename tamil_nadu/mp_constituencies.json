@@ -1,0 +1,392 @@
+[
+  {
+    "provinceId": "tamil_nadu",
+    "district": "CHENNAI",
+    "constituency": "CHENNAI NORTH",
+    "name": "DR. KALANIDHI VEERASWAMY",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "constituency": "CHENNAI CENTRAL",
+    "district": "CHENNAI",
+    "name": "DAYANIDHI MARAN",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "CHENNAI",
+    "constituency": "CHENNAI SOUTH",
+    "name": "T. SUMATHY (THAMIZHACHI THANGAPANDIAN)",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "TIRUVALLUR",
+    "constituency": "TIRUVALLUR",
+    "name": "DR. K. JAYAKUMAR",
+    "party": "INC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "KANCHEEPURAM",
+    "constituency": "SRIPERUMBUDUR",
+    "name": "T.R. BAALU",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "KANCHEEPURAM",
+    "constituency": "KANCHEEPURAM",
+    "name": "G. SELVAM",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "VELLORE",
+    "constituency": "ARAKKONAM",
+    "name": "S. JAGATHRAKSHAKAN",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "VELLORE",
+    "constituency": "VELLORE",
+    "name": "D. M. KATHIR ANAND",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "TIRUVANNAMALAI",
+    "constituency": "TIRUVANNAMALAI",
+    "name": "C. N. ANNADURAI",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "KRISHNAGIRI",
+    "constituency": "KRISHNAGIRI",
+    "name": "A. CHELLAKUMAR",
+    "party": "INC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "DHARMAPURI",
+    "constituency": "DHARMAPURI",
+    "name": "S. SENTHIL KUMAR",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "SALEM",
+    "constituency": "SALEM",
+    "name": "S. R. PARTHIBAN",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "NAMAKKAL",
+    "constituency": "NAMAKKAL",
+    "name": "A. K. P. CHINRAJ",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "ERODE",
+    "constituency": "ERODE",
+    "name": "A. GANESHAMURTHI",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "TIRUPPUR",
+    "constituency": "TIRUPPUR",
+    "name": "K. SUBBARAYAN",
+    "party": "CPI",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "COIMBATORE",
+    "constituency": "COIMBATORE",
+    "name": "P. R. NATARAJAN",
+    "party": "CPI(M)",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "THE NILGIRIS",
+    "constituency": "NILGIRIS",
+    "name": "A. RAJA",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "DINDIGUL",
+    "constituency": "DINDIGUL",
+    "name": "P. VELUSAMY",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "KARUR",
+    "constituency": "KARUR",
+    "name": "JOTHIMANI",
+    "party": "INC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "TIRUCHIRAPPALLI",
+    "constituency": "TIRUCHIRAPPALLI",
+    "name": "SU. THIRUNAVUKKARASAR",
+    "party": "INC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "PERAMBALUR",
+    "constituency": "PERAMBALUR",
+    "name": "T. R. PAARI VENDHAR",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "CUDDALORE",
+    "constituency": "CUDDALORE",
+    "name": "T. R. V. S. RAMESH",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "CHIDAMBARAM",
+    "constituency": "CHIDAMBARAM",
+    "name": "THOL. THIRUMAVALAVAN",
+    "party": "VCK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "MAYILADUTHURAI",
+    "constituency": "MAYILADUTHURAI",
+    "name": "S. RAMALINGAM",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "NAGAPATTINAM",
+    "constituency": "NAGAPATTINAM",
+    "name": "M. SELVARAJ",
+    "party": "CPI",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "THANJAVUR",
+    "constituency": "THANJAVUR",
+    "name": "S. S. PALANIMANICKAM",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "TIRUVARUR",
+    "constituency": "TIRUVARUR",
+    "name": "M. K. STALIN",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "PUDUKKOTTAI",
+    "constituency": "SIVAGANGA",
+    "name": "KARTI P. CHIDAMBARAM",
+    "party": "INC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "MADURAI",
+    "constituency": "MADURAI",
+    "name": "SU. VENKATESAN",
+    "party": "CPI(M)",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "THENI",
+    "constituency": "THENI",
+    "name": "P. RAVEENDRANATH KUMAR",
+    "party": "AIADMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "VIRUDHUNAGAR",
+    "constituency": "VIRUDHUNAGAR",
+    "name": "B. MANICKAM TAGORE",
+    "party": "INC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "RAMANATHAPURAM",
+    "constituency": "RAMANATHAPURAM",
+    "name": "K. NAVASKANI",
+    "party": "IUML",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "THOOTHUKUDI",
+    "constituency": "THOOTHUKUDI",
+    "name": "KANIMOZHI KARUNANIDHI",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "TENKASI",
+    "constituency": "TENKASI",
+    "name": "D. GNANATHIRAVIAM",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "TIRUNELVELI",
+    "constituency": "TIRUNELVELI",
+    "name": "S. GNANATHIRAVIAM",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "KANNIYAKUMARI",
+    "constituency": "KANNIYAKUMARI",
+    "name": "VIJAY VASANTH",
+    "party": "INC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "SIVAGANGA",
+    "constituency": "SIVAGANGA",
+    "name": "KARTI P. CHIDAMBARAM",
+    "party": "INC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "DINDIGUL",
+    "constituency": "POLLACHI",
+    "name": "K. SHANMUGA SUNDARAM",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "tamil_nadu",
+    "district": "NAMAKKAL",
+    "constituency": "NAMAKKAL",
+    "name": "A. K. P. CHINRAJ",
+    "party": "DMK",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  }
+]

@@ -1,0 +1,179 @@
+{
+  "KOKRAJHAR": [
+    "KOKRAJHAR WEST",
+    "KOKRAJHAR EAST"
+  ],
+  "CHIRANG": [
+    "SIDLI",
+    "BIJNI",
+    "CHIRANG"
+  ],
+  "BARPETA": [
+    "BARPETA",
+    "SARUKHETRI",
+    "BHAWANIPUR",
+    "CHENGA",
+    "BAGHBAR"
+  ],
+  "BAKSA": [
+    "TAMULPUR",
+    "NALBARI"
+  ],
+   "NALBARI": [
+    "NALBARI",
+    "BARKHETRI"
+  ],
+  "KAMRUP": [
+    "DHARMAPUR",
+    "BARHAMPUR",
+    "KAMALPUR",
+    "RANGIA",
+    "HAJO"
+  ],
+  "KAMRUP METRO": [
+    "DISPUR",
+    "GUWAHATI EAST",
+    "GUWAHATI WEST",
+    "JALUKBARI"
+  ],
+  "GOALPARA": [
+    "GOALPARA EAST",
+    "GOALPARA WEST",
+    "DUDHNOI"
+  ],
+  "DARRANG": [
+    "MANGALDOI",
+    "DALGAON",
+    "UDALGURI"
+  ],
+  "UDALGURI": [
+    "UDALGURI",
+    "MAZBAT"
+  ],
+  "SONITPUR": [
+    "DHEKIAJULI",
+    "BARCHALLA",
+    "TEZPUR",
+    "RANGAPARA"
+  ],
+  "BISWANATH": [
+    "BISWANATH",
+    "GOHPUR"
+  ],
+  "LAKHIMPUR": [
+    "LAKHIMPUR",
+    "DHAKUAKHANA",
+    "NAOBOICHA"
+  ],
+  "DHEMAJI": [
+    "DHEMAJI",
+    "JONAI"
+  ],
+  "DIBRUGARH": [
+    "DIBRUGARH",
+    "LAHOWAL",
+    "MORAN",
+    "TINGKHONG"
+  ],
+  "TINSUKIA": [
+    "TINSUKIA",
+    "DIGBOI",
+    "MARGHERITA",
+    "DOOM DOOMA",
+    "SADIYA"
+  ],
+  "JORHAT": [
+    "JORHAT",
+    "TEOK",
+    "TITABAR",
+    "MARIANI"
+  ],
+  "GOLAGHAT": [
+    "GOLAGHAT",
+    "KHUMTAI",
+    "SARUPATHAR",
+    "DERGAON"
+  ],
+  "SIVASAGAR": [
+    "SIVASAGAR",
+    "NAZIRA",
+    "AMGURI",
+    "THOWRA"
+  ],
+  "NAGAON": [
+    "RAHA",
+    "DHING",
+    "BATADRABA",
+    "RUPAHI",
+    "NOWGONG",
+    "BARHAMPUR",
+    "SAMAGURI",
+    "KALIABOR"
+  ],
+  "MORIGAON": [
+    "JAGIROAD",
+    "MORIGAON",
+    "LAHARIGHAT"
+  ],
+  "HOJAI": [
+    "HOJAI",
+    "LUMDING"
+  ],
+  "KARBI ANGLONG": [
+    "BOKAJAN",
+    "HOWRAGHAT",
+    "DIPHU",
+    "BAITHALANGSO"
+  ],
+  "DIMA HASAO": [
+    "HAFLONG"
+  ],
+  "CACHAR": [
+    "SILCHAR",
+    "SONAI",
+    "DOLAI",
+    "UDHARBOND",
+    "LAKHIPUR",
+    "BARKHOLA"
+  ],
+  "KARIMGANJ": [
+    "KARIMGANJ NORTH",
+    "KARIMGANJ SOUTH",
+    "RATABARI",
+    "PATHARKANDI",
+    "BADARPUR"
+  ],
+  "HAILAKANDI": [
+    "HAILAKANDI",
+    "ALGAPUR",
+    "KATLICHERRA"
+  ],
+  "BONGAIGAON": [
+    "BONGAIGAON",
+    "ABHAYAPURI NORTH",
+    "ABHAYAPURI SOUTH"
+  ],
+  "GOALPARA": [
+    "DUDHNOI",
+    "GOALPARA EAST",
+    "GOALPARA WEST"
+  ],
+  "DHUBRI": [
+    "DHUBRI",
+    "GAURIPUR",
+    "GOLAKGANJ",
+    "BILASIPARA WEST",
+    "BILASIPARA EAST",
+    "CHAPAR",
+    "SOUTH SALMARA"
+  ],
+  "SOUTH SALMARA-MANKACHAR": [
+    "MANKACHAR"
+  ],
+  "WEST KARBI ANGLONG": [
+    "WEST KARBI ANGLONG"
+  ],
+  "BAJALI": [
+    "BAJALI"
+  ]
+}

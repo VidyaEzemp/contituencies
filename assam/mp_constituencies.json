@@ -1,0 +1,142 @@
+[
+  {
+    "provinceId": "assam",
+    "district": "KOKRAJHAR",
+    "constituency": "KOKRAJHAR",
+    "name": "NABA KUMAR SARANIA",
+    "party": "IND",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "assam",
+    "district": "DHUBRI",
+    "constituency": "DHUBRI",
+    "name": "BADRUDDIN AJMAL",
+    "party": "AIUDF",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "assam",
+    "district": "GOALPARA",
+    "constituency": "GOALPARA",
+    "name": "ABDUL KHALEQUE",
+    "party": "INC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "assam",
+    "district": "BARPETA",
+    "constituency": "BARPETA",
+    "name": "PHANI BHUSAN CHOUDHURY",
+    "party": "AGP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "assam",
+    "district": "GUWAHATI",
+    "constituency": "GUWAHATI",
+    "name": "QUEEN OJA",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "assam",
+    "district": "MANGALDOI",
+    "constituency": "MANGALDOI",
+    "name": "DILIP SAIKIA",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "assam",
+    "district": "TEZPUR",
+    "constituency": "TEZPUR",
+    "name": "PALLAB LOCHAN DAS",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "assam",
+    "district": "NAGAON",
+    "constituency": "NOWGONG",
+    "name": "PRADYUT BORDOLOI",
+    "party": "INC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "assam",
+    "district": "KALIABOR",
+    "constituency": "KALIABOR",
+    "name": "GAURAV GOGOI",
+    "party": "INC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "assam",
+    "district": "JORHAT",
+    "constituency": "JORHAT",
+    "name": "TOPON KUMAR GOGOI",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "assam",
+    "district": "DIBRUGARH",
+    "constituency": "DIBRUGARH",
+    "name": "RAMESWAR TELI",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "assam",
+    "district": "LAKHIMPUR",
+    "constituency": "LAKHIMPUR",
+    "name": "PRADAN BARUAH",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "assam",
+    "district": "KARIMGANJ",
+    "constituency": "KARIMGANJ",
+    "name": "KRIPANATH MALLAH",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "assam",
+    "district": "SILCHAR",
+    "constituency": "SILCHAR",
+    "name": "RAJDEEP ROY",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  }
+]
