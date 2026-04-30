@@ -1,0 +1,422 @@
+[
+  {
+    "provinceId": "west_bengal",
+    "district": "COOCH BEHAR",
+    "constituency": "COOCH BEHAR",
+    "name": "JAGADISH CHANDRA BARMA BASUNIA",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "ALIPURDUAR",
+    "constituency": "ALIPURDUARS",
+    "name": "MANOJ TIGGA",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "JALPAIGURI",
+    "constituency": "JALPAIGURI",
+    "name": "JAYANTA KUMAR ROY",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "DARJEELING",
+    "constituency": "DARJEELING",
+    "name": "RAJU BISTA",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "UTTAR DINAJPUR",
+    "constituency": "RAIGANJ",
+    "name": "KARTICK CHANDRA PAUL",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "DAKSHIN DINAJPUR",
+    "constituency": "BALURGHAT",
+    "name": "SUKANTA MAJUMDAR",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "MALDA",
+    "constituency": "MALDAHA UTTAR",
+    "name": "KHAGEN MURMU",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "MALDA",
+    "constituency": "MALDAHA DAKSHIN",
+    "name": "ABU HASEM KHAN CHOWDHURY",
+    "party": "INC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "MURSHIDABAD",
+    "constituency": "JANGIPUR",
+    "name": "KHALILUR RAHAMAN",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "MURSHIDABAD",
+    "constituency": "MURSHIDABAD",
+    "name": "ABU TAHER KHAN",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "MURSHIDABAD",
+    "constituency": "BAHARAMPUR",
+    "name": "ADHIR RANJAN CHOWDHURY",
+    "party": "INC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "NADIA",
+    "constituency": "KRISHNANAGAR",
+    "name": "MAHUA MOITRA",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "NADIA",
+    "constituency": "RANAGHAT",
+    "name": "JAGANNATH SARKAR",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "NORTH 24 PARGANAS",
+    "constituency": "BANGAON",
+    "name": "SHANTANU THAKUR",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "NORTH 24 PARGANAS",
+    "constituency": "BARRACKPORE",
+    "name": "ARJUN SINGH",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "NORTH 24 PARGANAS",
+    "constituency": "DUM DUM",
+    "name": "SAUGATA ROY",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "NORTH 24 PARGANAS",
+    "constituency": "BARASAT",
+    "name": "KAKOLI GHOSH DASTIDAR",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "NORTH 24 PARGANAS",
+    "constituency": "BASIRHAT",
+    "name": "NUSRAT JAHAN",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "KOLKATA",
+    "constituency": "KOLKATA UTTAR",
+    "name": "SUDIP BANDYOPADHYAY",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "KOLKATA",
+    "constituency": "KOLKATA DAKSHIN",
+    "name": "ABHISHEK BANERJEE",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "HOWRAH",
+    "constituency": "HOWRAH",
+    "name": "PRASUN BANERJEE",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "HOWRAH",
+    "constituency": "ULUBERIA",
+    "name": "SAJDA AHMED",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "HOOGHLY",
+    "constituency": "SREERAMPUR",
+    "name": "KALYAN BANERJEE",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "HOOGHLY",
+    "constituency": "HOOGHLY",
+    "name": "LOCKET CHATTERJEE",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "HOOGHLY",
+    "constituency": "ARAMBAGH",
+    "name": "APARUPA PODDAR",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "PURBA MEDINIPUR",
+    "constituency": "TAMLUK",
+    "name": "DIBYENDU ADHIKARI",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "PURBA MEDINIPUR",
+    "constituency": "KANTHI",
+    "name": "SISIR KUMAR ADHIKARI",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "PASCHIM MEDINIPUR",
+    "constituency": "GHATAL",
+    "name": "DEV (DEEPAK ADHIKARI)",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "JHARGRAM",
+    "constituency": "JHARGRAM",
+    "name": "KUNAR HEMBRAM",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "PASCHIM MEDINIPUR",
+    "constituency": "MEDINIPUR",
+    "name": "DILIP GHOSH",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "PURULIA",
+    "constituency": "PURULIA",
+    "name": "JYOTIRMAY SINGH MAHATO",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "BANKURA",
+    "constituency": "BANKURA",
+    "name": "SUBHAS SARKAR",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "BANKURA",
+    "constituency": "BISHNUPUR",
+    "name": "SAUMITRA KHAN",
+    "party": "BJP",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "PURBA BARDHAMAN",
+    "constituency": "BARDHAMAN PURBA",
+    "name": "SUNIL KUMAR MONDAL",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "PASCHIM BARDHAMAN",
+    "constituency": "BARDHAMAN DURGAPUR",
+    "name": "KIRTI AZAD",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "PASCHIM BARDHAMAN",
+    "constituency": "ASANSOL",
+    "name": "SHATRUGHAN SINHA",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "BIRBHUM",
+    "constituency": "BOLPUR",
+    "name": "ASIT KUMAR MAL",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "BIRBHUM",
+    "constituency": "BIRBHUM",
+    "name": "SATABDI ROY",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "SOUTH 24 PARGANAS",
+    "constituency": "JADAVPUR",
+    "name": "MIMI CHAKRABORTY",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "SOUTH 24 PARGANAS",
+    "constituency": "DIAMOND HARBOUR",
+    "name": "ABHISHEK BANERJEE",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "SOUTH 24 PARGANAS",
+    "constituency": "MATHURAPUR",
+    "name": "BAPAN CHANDRA MAJUMDAR",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  },
+  {
+    "provinceId": "west_bengal",
+    "district": "SOUTH 24 PARGANAS",
+    "constituency": "JOY NAGAR",
+    "name": "PRATIMA MONDAL",
+    "party": "AITC",
+    "phone": "",
+    "email": "",
+    "role": "MP"
+  }
+]
