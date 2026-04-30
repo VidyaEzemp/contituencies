@@ -1,12 +1,23 @@
 {
   "KOKRAJHAR": [
+    "GOSSAIGAON",
     "KOKRAJHAR WEST",
-    "KOKRAJHAR EAST"
+    "KOKRAJHAR EAST",
+    "DOTMA",
+    "BAOKHUNGRI",
+    "PARBATJHORA"
   ],
   "CHIRANG": [
     "SIDLI",
     "BIJNI",
     "CHIRANG"
+  ],
+  "BAKSA": [
+    "TAMULPUR",
+    "MAZBAT"
+  ],
+  "UDALGURI": [
+    "UDALGURI"
   ],
   "BARPETA": [
     "BARPETA",
@@ -15,11 +26,10 @@
     "CHENGA",
     "BAGHBAR"
   ],
-  "BAKSA": [
-    "TAMULPUR",
-    "NALBARI"
+  "BAJALI": [
+    "BAJALI"
   ],
-   "NALBARI": [
+  "NALBARI": [
     "NALBARI",
     "BARKHETRI"
   ],
@@ -28,7 +38,10 @@
     "BARHAMPUR",
     "KAMALPUR",
     "RANGIA",
-    "HAJO"
+    "HAJO",
+    "BOKO-CHAYGAON",
+    "CHAYGAON",
+    "PALASBARI"
   ],
   "KAMRUP METRO": [
     "DISPUR",
@@ -43,12 +56,7 @@
   ],
   "DARRANG": [
     "MANGALDOI",
-    "DALGAON",
-    "UDALGURI"
-  ],
-  "UDALGURI": [
-    "UDALGURI",
-    "MAZBAT"
+    "DALGAON"
   ],
   "SONITPUR": [
     "DHEKIAJULI",
@@ -72,7 +80,6 @@
   "DIBRUGARH": [
     "DIBRUGARH",
     "LAHOWAL",
-    "MORAN",
     "TINGKHONG"
   ],
   "TINSUKIA": [
@@ -80,7 +87,18 @@
     "DIGBOI",
     "MARGHERITA",
     "DOOM DOOMA",
-    "SADIYA"
+    "SADIYA",
+    "MAKUM"
+  ],
+  "CHARAIDEO": [
+    "SONARI"
+  ],
+  "SIVASAGAR": [
+    "SIVASAGAR",
+    "NAZIRA",
+    "AMGURI",
+    "THOWRA",
+    "DEMOW"
   ],
   "JORHAT": [
     "JORHAT",
@@ -88,42 +106,41 @@
     "TITABAR",
     "MARIANI"
   ],
+  "MAJULI": [
+    "MAJULI"
+  ],
   "GOLAGHAT": [
     "GOLAGHAT",
     "KHUMTAI",
     "SARUPATHAR",
     "DERGAON"
   ],
-  "SIVASAGAR": [
-    "SIVASAGAR",
-    "NAZIRA",
-    "AMGURI",
-    "THOWRA"
-  ],
   "NAGAON": [
     "RAHA",
     "DHING",
     "BATADRABA",
     "RUPAHI",
-    "NOWGONG",
+    "NAGAON",
     "BARHAMPUR",
-    "SAMAGURI",
-    "KALIABOR"
+    "SAMAGURI"
+  ],
+  "HOJAI": [
+    "HOJAI",
+    "LUMDING"
   ],
   "MORIGAON": [
     "JAGIROAD",
     "MORIGAON",
     "LAHARIGHAT"
   ],
-  "HOJAI": [
-    "HOJAI",
-    "LUMDING"
-  ],
   "KARBI ANGLONG": [
     "BOKAJAN",
     "HOWRAGHAT",
     "DIPHU",
     "BAITHALANGSO"
+  ],
+  "WEST KARBI ANGLONG": [
+    "AMRI"
   ],
   "DIMA HASAO": [
     "HAFLONG"
@@ -153,11 +170,6 @@
     "ABHAYAPURI NORTH",
     "ABHAYAPURI SOUTH"
   ],
-  "GOALPARA": [
-    "DUDHNOI",
-    "GOALPARA EAST",
-    "GOALPARA WEST"
-  ],
   "DHUBRI": [
     "DHUBRI",
     "GAURIPUR",
@@ -169,11 +181,5 @@
   ],
   "SOUTH SALMARA-MANKACHAR": [
     "MANKACHAR"
-  ],
-  "WEST KARBI ANGLONG": [
-    "WEST KARBI ANGLONG"
-  ],
-  "BAJALI": [
-    "BAJALI"
   ]
 }
