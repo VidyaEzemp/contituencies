@@ -7,6 +7,7 @@
     "party": "INC",
     "phone": "(0467)2951800,9447590800,9013997183",
     "email": "",
+    "type": "MP",
     "role": "MP"
   },
   {
@@ -17,6 +18,7 @@
     "party": "INC",
     "phone": "9074759196",
     "email": "",
+    "type": "MP",
     "role": "MP"
   },
   {
@@ -27,6 +29,7 @@
     "party": "INC",
     "phone": "9873511142",
     "email": "",
+    "type": "MP",
     "role": "MP"
   },
   {
@@ -37,6 +40,7 @@
     "party": "INC",
     "phone": "NA",
     "email": "",
+    "type": "MP",
     "role": "MP"
   },
   {
@@ -47,6 +51,7 @@
     "party": "INC",
     "phone": "NA",
     "email": "",
+    "type": "MP",
     "role": "MP"
   },
   {
@@ -57,6 +62,7 @@
     "party": "IUML",
     "phone": "09496134313",
     "email": "",
+    "type": "MP",
     "role": "MP"
   },
   {
@@ -67,6 +73,7 @@
     "party": "IUML",
     "phone": "9013180206",
     "email": "",
+    "type": "MP",
     "role": "MP"
   },
   {
@@ -77,6 +84,7 @@
     "party": "INC",
     "phone": "(011) 23354158, 23354035, 23354383, 24644035, 24644383",
     "email": "",
+    "type": "MP",
     "role": "MP"
   },
   {
@@ -87,6 +95,7 @@
     "party": "BJP",
     "phone": "(011) 21411647, 21411648",
     "email": "",
+    "type": "MP",
     "role": "MP"
   },
   {
@@ -97,6 +106,7 @@
     "party": "INC",
     "phone": "7503484369",
     "email": "",
+    "type": "MP",
     "role": "MP"
   },
   {
@@ -107,6 +117,7 @@
     "party": "INC",
     "phone": "09447877369",
     "email": "",
+    "type": "MP",
     "role": "MP"
   },
   {
@@ -117,6 +128,7 @@
     "party": "KERALA CONGRESS (M)",
     "phone": "9446411100",
     "email": "",
+    "type": "MP",
     "role": "MP"
   },
   {
@@ -127,6 +139,7 @@
     "party": "INC",
     "phone": "NA",
     "email": "",
+    "type": "MP",
     "role": "MP"
   },
   {
@@ -137,6 +150,7 @@
     "party": "CPI",
     "phone": "09013180580",
     "email": "",
+    "type": "MP",
     "role": "MP"
   },
   {
@@ -147,6 +161,7 @@
     "party": "INC",
     "phone": "9013180320",
     "email": "",
+    "type": "MP",
     "role": "MP"
   },
   {
@@ -157,6 +172,7 @@
     "party": "RSP",
     "phone": "9400117700",
     "email": "",
+    "type": "MP",
     "role": "MP"
   },
   {
@@ -167,6 +183,7 @@
     "party": "INC",
     "phone": "9447008166",
     "email": "",
+    "type": "MP",
     "role": "MP"
   },
   {
@@ -177,6 +194,7 @@
     "party": "INC",
     "phone": "9871095104",
     "email": "",
+    "type": "MP",
     "role": "MP"
   },
   {
@@ -187,6 +205,7 @@
     "party": "INC",
     "phone": "09013997190",
     "email": "",
+    "type": "MP",
     "role": "MP"
   },
   {
@@ -197,6 +216,7 @@
     "party": "CPI(M)",
     "phone": "NA",
     "email": "",
+    "type": "MP",
     "role": "MP"
   }
 ]
