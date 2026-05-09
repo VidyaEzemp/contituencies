@@ -428,7 +428,7 @@
     "type": "MLA",
     "role": "MLA"
   },
-    {
+  {
     "provinceId": "kerala",
     "district": "KOTTAYAM",
     "constituency": "PUTHUPPALLY",
@@ -527,7 +527,7 @@
     "type": "MLA",
     "role": "MLA"
   },
-   {
+  {
     "provinceId": "kerala",
     "district": "IDUKKI",
     "constituency": "DEVIKULAM",
@@ -1055,7 +1055,7 @@
     "type": "MLA",
     "role": "MLA"
   },
- {
+  {
     "provinceId": "kerala",
     "district": "WAYANAD",
     "constituency": "MANANTHAVADY",
@@ -1165,7 +1165,6 @@
     "type": "MLA",
     "role": "MLA"
   },
-  
   {
     "provinceId": "kerala",
     "district": "KANNUR",
@@ -1210,7 +1209,6 @@
     "type": "MLA",
     "role": "MLA"
   },
-
   {
     "provinceId": "kerala",
     "district": "THRISSUR",
@@ -1218,6 +1216,17 @@
     "phone": "",
     "email": "",
     "name": "MURALI PERUNELLI",
+    "party": "CPI(M)",
+    "type": "MLA",
+    "role": "MLA"
+  },
+  {
+    "provinceId": "kerala",
+    "district": "THRISSUR",
+    "constituency": "CHELAKKARA",
+    "phone": "",
+    "email": "",
+    "name": "U R PRADEEP",
     "party": "CPI(M)",
     "type": "MLA",
     "role": "MLA"
@@ -1247,7 +1256,7 @@
   {
     "provinceId": "kerala",
     "district": "THRISSUR",
-    "constituency": "GURUVAYUR",
+    "constituency": "GURUVAYOOR",
     "phone": "",
     "email": "",
     "name": "N K AKBAR",
@@ -1343,8 +1352,7 @@
     "type": "MLA",
     "role": "MLA"
   },
-
-    {
+  {
     "provinceId": "kerala",
     "district": "PALAKKAD",
     "constituency": "THRITHALA",
@@ -1427,7 +1435,7 @@
     "constituency": "PALAKKAD",
     "phone": "",
     "email": "",
-    "name": "RAHUL MAMKOOTATHIL",
+    "name": "RAMESH PISHARADY",
     "party": "INC",
     "type": "MLA",
     "role": "MLA"
@@ -1449,7 +1457,7 @@
     "constituency": "CHITTUR",
     "phone": "",
     "email": "",
-    "name": "K KRISHNANKUTTY",
+    "name": "ADV. SUMESH ACHUTHAN",
     "party": "JD(S)",
     "type": "MLA",
     "role": "MLA"
@@ -1460,7 +1468,7 @@
     "constituency": "NENMARA",
     "phone": "",
     "email": "",
-    "name": "K BABU",
+    "name": "K PREMAN",
     "party": "CPI(M)",
     "type": "MLA",
     "role": "MLA"
@@ -1471,7 +1479,7 @@
     "constituency": "ALATHUR",
     "phone": "",
     "email": "",
-    "name": "K D PRASENAN",
+    "name": "T.M SASI",
     "party": "CPI(M)",
     "type": "MLA",
     "role": "MLA"
