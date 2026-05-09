@@ -1091,11 +1091,55 @@
   {
     "provinceId": "kerala",
     "district": "KANNUR",
+    "constituency": "AZHIKODE",
+    "phone": "",
+    "email": "",
+    "name": "K V SUMESH",
+    "party": "CPI(M)",
+    "type": "MLA",
+    "role": "MLA"
+  },
+  {
+    "provinceId": "kerala",
+    "district": "KANNUR",
     "constituency": "DHARMADAM",
     "phone": "",
     "email": "",
     "name": "PINARAYI VIJAYAN",
     "party": "CPI(M)",
+    "type": "MLA",
+    "role": "MLA"
+  },
+  {
+    "provinceId": "kerala",
+    "district": "KANNUR",
+    "constituency": "IRIKKUR",
+    "phone": "",
+    "email": "",
+    "name": "SAJEEV JOSEPH",
+    "party": "INC",
+    "type": "MLA",
+    "role": "MLA"
+  },
+  {
+    "provinceId": "kerala",
+    "district": "KANNUR",
+    "constituency": "KALLIASSERI",
+    "phone": "",
+    "email": "",
+    "name": "M VIJIN",
+    "party": "CPI(M)",
+    "type": "MLA",
+    "role": "MLA"
+  },
+  {
+    "provinceId": "kerala",
+    "district": "KANNUR",
+    "constituency": "KANNUR",
+    "phone": "",
+    "email": "",
+    "name": "T O MOHANAN",
+    "party": "INC",
     "type": "MLA",
     "role": "MLA"
   },
@@ -1121,39 +1165,7 @@
     "type": "MLA",
     "role": "MLA"
   },
-  {
-    "provinceId": "kerala",
-    "district": "KANNUR",
-    "constituency": "KALLIASSERI",
-    "phone": "",
-    "email": "",
-    "name": "M VIJIN",
-    "party": "CPI(M)",
-    "type": "MLA",
-    "role": "MLA"
-  },
-  {
-    "provinceId": "kerala",
-    "district": "KANNUR",
-    "constituency": "AZHIKODE",
-    "phone": "",
-    "email": "",
-    "name": "K V SUMESH",
-    "party": "CPI(M)",
-    "type": "MLA",
-    "role": "MLA"
-  },
-  {
-    "provinceId": "kerala",
-    "district": "KANNUR",
-    "constituency": "KANNUR",
-    "phone": "",
-    "email": "",
-    "name": "T O MOHANAN",
-    "party": "IUML",
-    "type": "MLA",
-    "role": "MLA"
-  },
+  
   {
     "provinceId": "kerala",
     "district": "KANNUR",
@@ -1168,21 +1180,10 @@
   {
     "provinceId": "kerala",
     "district": "KANNUR",
-    "constituency": "IRITTY",
+    "constituency": "PERAVOOR",
     "phone": "",
     "email": "",
     "name": "SUNNY JOSEPH",
-    "party": "INC",
-    "type": "MLA",
-    "role": "MLA"
-  },
-  {
-    "provinceId": "kerala",
-    "district": "KANNUR",
-    "constituency": "IRIKKUR",
-    "phone": "",
-    "email": "",
-    "name": "SAJEEV JOSEPH",
     "party": "INC",
     "type": "MLA",
     "role": "MLA"
