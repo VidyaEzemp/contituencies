@@ -1483,5 +1483,62 @@
     "party": "CPI(M)",
     "type": "MLA",
     "role": "MLA"
+  },
+
+    {
+    "provinceId": "kerala",
+    "district": "KASARAGOD",
+    "constituency": "MANJESHWAR",
+    "phone": "",
+    "email": "",
+    "name": "A K M ASHRAF",
+    "party": "IUML",
+    "type": "MLA",
+    "role": "MLA"
+  },
+  {
+    "provinceId": "kerala",
+    "district": "KASARAGOD",
+    "constituency": "KASARAGOD",
+    "phone": "",
+    "email": "",
+    "name": "KALLATRA MAHIN",
+    "party": "IUML",
+    "type": "MLA",
+    "role": "MLA"
+  },
+  {
+    "provinceId": "kerala",
+    "district": "KASARAGOD",
+    "constituency": "UDMA",
+    "phone": "",
+    "email": "",
+    "name": "K. NEELAKANDAN",
+    "party": "INC",
+    "type": "MLA",
+    "role": "MLA"
+  },
+  {
+    "provinceId": "kerala",
+    "district": "KASARAGOD",
+    "constituency": "KANHANGAD",
+    "phone": "",
+    "email": "",
+    "name": "Adv. GOVINDAN PALLIKAPPIL",
+    "party": "CPI",
+    "type": "MLA",
+    "role": "MLA"
+  },
+  {
+    "provinceId": "kerala",
+    "district": "KASARAGOD",
+    "constituency": "TRIKARIPUR",
+    "phone": "",
+    "email": "",
+    "name": "M RAJAGOPALAN",
+    "party": "CPI(M)",
+    "type": "MLA",
+    "role": "MLA"
   }
+
 ]
