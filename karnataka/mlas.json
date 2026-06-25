@@ -46,7 +46,7 @@
   {
     "provinceId": "karnataka",
     "district": "BELAGAVI",
-    "constituency": "KUDACHI_(SC)",
+    "constituency": "KUDACHI",
     "phone": "",
     "email": "",
     "name": "MAHENDRA KALLAPPA TAMMANNAVAR",
@@ -57,7 +57,7 @@
   {
     "provinceId": "karnataka",
     "district": "BELAGAVI",
-    "constituency": "RAIBAG_(SC)",
+    "constituency": "RAIBAG",
     "phone": "",
     "email": "",
     "name": "DURYODHAN AIHOLE",
@@ -200,7 +200,7 @@
   {
     "provinceId": "karnataka",
     "district": "BAGALKOT",
-    "constituency": "MUDHOL_(SC)",
+    "constituency": "MUDHOL",
     "phone": "",
     "email": "",
     "name": "R. B. TIMMAPUR",
@@ -332,7 +332,7 @@
   {
     "provinceId": "karnataka",
     "district": "VIJAYAPURA",
-    "constituency": "NAGATHAN_(SC)",
+    "constituency": "NAGATHAN",
     "phone": "",
     "email": "",
     "name": "KATAKADOND VITTAL DONDIBA",
@@ -387,7 +387,7 @@
   {
     "provinceId": "karnataka",
     "district": "YADGIR",
-    "constituency": "SHORAPUR_(ST)",
+    "constituency": "SHORAPUR",
     "phone": "",
     "email": "",
     "name": "RAJA VENKATAPPA NAIK",
@@ -431,7 +431,7 @@
   {
     "provinceId": "karnataka",
     "district": "KALABURAGI",
-    "constituency": "CHITTAPUR_(SC)",
+    "constituency": "CHITTAPUR",
     "phone": "",
     "email": "",
     "name": "PRIYANK KHARGE",
@@ -453,7 +453,7 @@
   {
     "provinceId": "karnataka",
     "district": "KALABURAGI",
-    "constituency": "CHINCHOLI_(SC)",
+    "constituency": "CHINCHOLI",
     "phone": "",
     "email": "",
     "name": "AVINASH JADHAV",
@@ -464,7 +464,7 @@
   {
     "provinceId": "karnataka",
     "district": "KALABURAGI",
-    "constituency": "GULBARGA_RURAL_(SC)",
+    "constituency": "GULBARGA_RURAL",
     "phone": "",
     "email": "",
     "name": "BASAWARAJ MATTIMUD",
@@ -563,7 +563,7 @@
   {
     "provinceId": "karnataka",
     "district": "BIDAR",
-    "constituency": "AURAD_(SC)",
+    "constituency": "AURAD",
     "phone": "",
     "email": "",
     "name": "PRABHU CHAUHAN",
@@ -574,7 +574,7 @@
   {
     "provinceId": "karnataka",
     "district": "RAICHUR",
-    "constituency": "RAICHUR_RURAL_(ST)",
+    "constituency": "RAICHUR_RURAL",
     "phone": "",
     "email": "",
     "name": "BASANAGOUDA DADDAL",
@@ -596,7 +596,7 @@
   {
     "provinceId": "karnataka",
     "district": "RAICHUR",
-    "constituency": "MANVI_(ST)",
+    "constituency": "MANVI",
     "phone": "",
     "email": "",
     "name": "G. HAMPAYYA NAYAK",
@@ -607,7 +607,7 @@
   {
     "provinceId": "karnataka",
     "district": "RAICHUR",
-    "constituency": "DEVADURGA_(ST)",
+    "constituency": "DEVADURGA",
     "phone": "",
     "email": "",
     "name": "KAREMMA",
@@ -618,7 +618,7 @@
   {
     "provinceId": "karnataka",
     "district": "RAICHUR",
-    "constituency": "LINGSUGUR_(SC)",
+    "constituency": "LINGSUGUR",
     "phone": "",
     "email": "",
     "name": "MANAPPA D. VAJJAL",
@@ -640,7 +640,7 @@
   {
     "provinceId": "karnataka",
     "district": "RAICHUR",
-    "constituency": "MASKI_(ST)",
+    "constituency": "MASKI",
     "phone": "",
     "email": "",
     "name": "BASANAGOUDA TURVIHAL",
@@ -662,7 +662,7 @@
   {
     "provinceId": "karnataka",
     "district": "KOPPAL",
-    "constituency": "KANAKAGIRI_(SC)",
+    "constituency": "KANAKAGIRI",
     "phone": "",
     "email": "",
     "name": "TANGADAGI SHIVARAJ SANGAPPA",
@@ -706,7 +706,7 @@
   {
     "provinceId": "karnataka",
     "district": "GADAG",
-    "constituency": "SHIRAHATTI_(SC)",
+    "constituency": "SHIRAHATTI",
     "phone": "",
     "email": "",
     "name": "CHANDRU LAMANI",
@@ -783,7 +783,7 @@
   {
     "provinceId": "karnataka",
     "district": "DHARWAD",
-    "constituency": "HUBLI_DHARWAD_EAST_(SC)",
+    "constituency": "HUBLI_DHARWAD_EAST",
     "phone": "",
     "email": "",
     "name": "ABBAYYA PRASAD",
@@ -915,7 +915,7 @@
   {
     "provinceId": "karnataka",
     "district": "HAVERI",
-    "constituency": "HAVERI_(SC)",
+    "constituency": "HAVERI",
     "phone": "",
     "email": "",
     "name": "RUDRAPPA MANAPPA LAMANI",
@@ -959,7 +959,7 @@
   {
     "provinceId": "karnataka",
     "district": "VIJAYANAGARA",
-    "constituency": "HOOVINA_HADAGALI_(SC)",
+    "constituency": "HOOVINA_HADAGALI",
     "phone": "",
     "email": "",
     "name": "KRISHNA NAYAKA",
@@ -970,7 +970,7 @@
   {
     "provinceId": "karnataka",
     "district": "VIJAYANAGARA",
-    "constituency": "HAGARIBOMMANAHALLI_(SC)",
+    "constituency": "HAGARIBOMMANAHALLI",
     "phone": "",
     "email": "",
     "name": "K. NEMARAJA NAIK",
@@ -1047,7 +1047,7 @@
   {
     "provinceId": "karnataka",
     "district": "VIJAYANAGARA",
-    "constituency": "KUDLIGI_(ST)",
+    "constituency": "KUDLIGI",
     "phone": "",
     "email": "",
     "name": "N. T. SRINIVAS",
@@ -1058,7 +1058,7 @@
   {
     "provinceId": "karnataka",
     "district": "CHITRADURGA",
-    "constituency": "MOLAKALMURU_(ST)",
+    "constituency": "MOLAKALMURU",
     "phone": "",
     "email": "",
     "name": "N. Y. GOPALAKRISHNA",
@@ -1069,7 +1069,7 @@
   {
     "provinceId": "karnataka",
     "district": "CHITRADURGA",
-    "constituency": "CHALLAKERE_(ST)",
+    "constituency": "CHALLAKERE",
     "phone": "",
     "email": "",
     "name": "T. RAGHUMURTHY",
@@ -1113,7 +1113,7 @@
   {
     "provinceId": "karnataka",
     "district": "CHITRADURGA",
-    "constituency": "HOLALKERE_(SC)",
+    "constituency": "HOLALKERE",
     "phone": "",
     "email": "",
     "name": "M. CHANDRAPPA",
@@ -1124,7 +1124,7 @@
   {
     "provinceId": "karnataka",
     "district": "DAVANAGERE",
-    "constituency": "JAGALUR_(ST)",
+    "constituency": "JAGALUR",
     "phone": "",
     "email": "",
     "name": "B. DEVENDRAPPA",
@@ -1179,7 +1179,7 @@
   {
     "provinceId": "karnataka",
     "district": "DAVANAGERE",
-    "constituency": "MAYAKONDA_(SC)",
+    "constituency": "MAYAKONDA",
     "phone": "",
     "email": "",
     "name": "K. S. BASAVANTHAPPA",
@@ -1212,7 +1212,7 @@
   {
     "provinceId": "karnataka",
     "district": "SHIMOGA",
-    "constituency": "SHIMOGA_RURAL_(SC)",
+    "constituency": "SHIMOGA_RURAL",
     "phone": "",
     "email": "",
     "name": "SHARADA PURYANAIK",
@@ -1355,7 +1355,7 @@
   {
     "provinceId": "karnataka",
     "district": "CHIKMAGALUR",
-    "constituency": "MUDIGERE_(SC)",
+    "constituency": "MUDIGERE",
     "phone": "",
     "email": "",
     "name": "NAYANA MOTAMMA",
@@ -1465,7 +1465,7 @@
   {
     "provinceId": "karnataka",
     "district": "TUMAKURU",
-    "constituency": "KORATAGERE_(SC)",
+    "constituency": "KORATAGERE",
     "phone": "",
     "email": "",
     "name": "G. PARAMESHWARA",
@@ -1498,7 +1498,7 @@
   {
     "provinceId": "karnataka",
     "district": "TUMAKURU",
-    "constituency": "PAVAGADA_(SC)",
+    "constituency": "PAVAGADA",
     "phone": "",
     "email": "",
     "name": "H. V. VENKATESH",
@@ -1586,7 +1586,7 @@
   {
     "provinceId": "karnataka",
     "district": "KOLAR",
-    "constituency": "MULBAGAL_(SC)",
+    "constituency": "MULBAGAL",
     "phone": "",
     "email": "",
     "name": "SAMRUDDHI V. MANJUNATH",
@@ -1597,7 +1597,7 @@
   {
     "provinceId": "karnataka",
     "district": "KOLAR",
-    "constituency": "KOLAR_GOLD_FIELD_(SC)",
+    "constituency": "KOLAR_GOLD_FIELD",
     "phone": "",
     "email": "",
     "name": "M. ROOPAKALA",
@@ -1608,7 +1608,7 @@
   {
     "provinceId": "karnataka",
     "district": "KOLAR",
-    "constituency": "BANGARAPET_(SC)",
+    "constituency": "BANGARAPET",
     "phone": "",
     "email": "",
     "name": "S. N. NARAYANASWAMY",
@@ -1740,7 +1740,7 @@
   {
     "provinceId": "karnataka",
     "district": "BENGALURU_URBAN",
-    "constituency": "PULAKESHINAGAR_(SC)",
+    "constituency": "PULAKESHINAGAR",
     "phone": "",
     "email": "",
     "name": "A.C. SRINIVASA",
@@ -1762,7 +1762,7 @@
   {
     "provinceId": "karnataka",
     "district": "BENGALURU_URBAN",
-    "constituency": "C._V._RAMAN_NAGAR_(SC)",
+    "constituency": "C._V._RAMAN_NAGAR",
     "phone": "",
     "email": "",
     "name": "S. RAGHU",
@@ -1905,7 +1905,7 @@
   {
     "provinceId": "karnataka",
     "district": "BENGALURU_URBAN",
-    "constituency": "MAHADEVAPURA_(SC)",
+    "constituency": "MAHADEVAPURA",
     "phone": "",
     "email": "",
     "name": "MANJULA S.",
@@ -1938,7 +1938,7 @@
   {
     "provinceId": "karnataka",
     "district": "BENGALURU_URBAN",
-    "constituency": "ANEKAL_(SC)",
+    "constituency": "ANEKAL",
     "phone": "",
     "email": "",
     "name": "B. SHIVANNA",
@@ -1960,7 +1960,7 @@
   {
     "provinceId": "karnataka",
     "district": "BENGALURU_RURAL",
-    "constituency": "DEVANAHALLI_(SC)",
+    "constituency": "DEVANAHALLI",
     "phone": "",
     "email": "",
     "name": "K. H. MUNIYAPPA",
@@ -1982,7 +1982,7 @@
   {
     "provinceId": "karnataka",
     "district": "BENGALURU_RURAL",
-    "constituency": "NELAMANGALA_(SC)",
+    "constituency": "NELAMANGALA",
     "phone": "",
     "email": "",
     "name": "N. SHREENIVASAIAH",
@@ -2037,7 +2037,7 @@
   {
     "provinceId": "karnataka",
     "district": "MANDYA",
-    "constituency": "MALAVALLI_(SC)",
+    "constituency": "MALAVALLI",
     "phone": "",
     "email": "",
     "name": "P. M. NARENDRASWAMY",
@@ -2180,7 +2180,7 @@
   {
     "provinceId": "karnataka",
     "district": "HASSAN",
-    "constituency": "SAKLESHPUR_(SC)",
+    "constituency": "SAKLESHPUR",
     "phone": "",
     "email": "",
     "name": "CEMENT MANJU",
@@ -2268,7 +2268,7 @@
   {
     "provinceId": "karnataka",
     "district": "DAKSHINA_KANNADA",
-    "constituency": "SULLIA_(SC)",
+    "constituency": "SULLIA",
     "phone": "",
     "email": "",
     "name": "BHAGIRATHI MURULYA",
@@ -2334,7 +2334,7 @@
   {
     "provinceId": "karnataka",
     "district": "MYSORE",
-    "constituency": "HEGGADADEVANKOTE_(ST)",
+    "constituency": "HEGGADADEVANKOTE",
     "phone": "",
     "email": "",
     "name": "ANIL CHIKKAMADHU",
@@ -2345,7 +2345,7 @@
   {
     "provinceId": "karnataka",
     "district": "MYSORE",
-    "constituency": "NANJANGUD_(SC)",
+    "constituency": "NANJANGUD",
     "phone": "",
     "email": "",
     "name": "DARSHAN DHRUVANARAYANA",
@@ -2411,7 +2411,7 @@
   {
     "provinceId": "karnataka",
     "district": "MYSORE",
-    "constituency": "T._NARASIPUR_(SC)",
+    "constituency": "T._NARASIPUR",
     "phone": "",
     "email": "",
     "name": "H. C. MAHADEVAPPA",
@@ -2433,7 +2433,7 @@
   {
     "provinceId": "karnataka",
     "district": "CHAMARAJANAGAR",
-    "constituency": "KOLLEGAL_(SC)",
+    "constituency": "KOLLEGAL",
     "phone": "",
     "email": "",
     "name": "A. R. KRISHNAMURTHY",
