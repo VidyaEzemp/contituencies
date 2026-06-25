@@ -1,5 +1,5 @@
 {
-  "BAGALKOTE": [
+  "BAGALKOT": [
     "BADAMI",
     "BAGALKOT",
     "BILGI",
@@ -10,20 +10,18 @@
   ],
   "BALLARI": [
     "BALLARI_CITY",
-    "BALLARI_RURAL",
+    "BALLARI",
     "KAMPLI",
-    "KUDLIGI",
     "SANDUR",
-    "SIRUGUPPA",
-    "VIJAYANAGARA"
+    "SIRUGUPPA"
   ],
   "BELAGAVI": [
     "ARABHAVI",
     "ATHANI",
-    "BAILAHONGAL",
-    "BELAGAVI_DAKSHIN",
-    "BELAGAVI_RURAL",
-    "BELAGAVI_UTTAR",
+    "BAILHONGAL",
+    "BELGAUM_DAKSHIN",
+    "BELGAUM_RURAL",
+    "BELGAUM_UTTAR",
     "CHIKKODI_SADALGA",
     "GOKAK",
     "HUKKERI",
@@ -32,10 +30,10 @@
     "KITTUR",
     "KUDACHI",
     "NIPPANI",
+    "RAIBAG",
     "RAMDURG",
-    "RAYBAG",
     "SAUNDATTI_YELLAMMA",
-    "YAMAKANAMARADI"
+    "YEMKANMARDI"
   ],
   "BENGALURU_RURAL": [
     "DEVANAHALLI",
@@ -45,38 +43,40 @@
   ],
   "BENGALURU_URBAN": [
     "ANEKAL",
-    "B_T_M_LAYOUT",
+    "BANGALORE_SOUTH",
     "BASAVANAGUDI",
     "BOMMANAHALLI",
+    "BTM_LAYOUT",
     "BYATARAYANAPURA",
-    "C_V_RAMAN_NAGAR",
     "CHAMARAJPET",
     "CHICKPET",
+    "CV_RAMAN_NAGAR",
     "DASARAHALLI",
-    "GANDHINAGAR",
+    "GANDHI_NAGAR",
+    "GOVINDARAJ_NAGAR",
     "HEBBAL",
     "JAYANAGAR",
-    "KR_PURAM",
+    "KRISHNARAJAPURAM",
     "MAHADEVAPURA",
     "MAHALAKSHMI_LAYOUT",
     "MALLESHWARAM",
     "PADMANABHANAGAR",
     "PULAKESHINAGAR",
     "RAJAJINAGAR",
+    "RAJARAJESHWARI_NAGAR",
     "SARVAJNANAGAR",
-    "SHANTHINAGAR",
+    "SHANTI_NAGAR",
     "SHIVAJINAGAR",
-    "VIJAYANAGAR",
-    "YESHWANTHPURA",
+    "VIJAY_NAGAR",
     "YELAHANKA",
-    "BENGALURU_SOUTH"
+    "YESHWANTHPUR"
   ],
   "BIDAR": [
     "AURAD",
+    "BASAVAKALYAN",
     "BHALKI",
     "BIDAR",
     "BIDAR_SOUTH",
-    "BASAVAKALYAN",
     "HUMNABAD"
   ],
   "CHAMARAJANAGAR": [
@@ -85,7 +85,7 @@
     "HANUR",
     "KOLLEGAL"
   ],
-  "CHIKKABALLAPUR": [
+  "CHIKKABALLAPURA": [
     "BAGEPALLI",
     "CHIKKABALLAPUR",
     "CHINTAMANI",
@@ -113,7 +113,7 @@
     "MANGALURU",
     "MANGALURU_CITY_NORTH",
     "MANGALURU_CITY_SOUTH",
-    "MOODBIDRI",
+    "MOODABIDRI",
     "PUTTUR",
     "SULLIA"
   ],
@@ -121,10 +121,10 @@
     "CHANNAGIRI",
     "DAVANAGERE_NORTH",
     "DAVANAGERE_SOUTH",
-    "HARAPANAHALLI",
     "HARIHAR",
     "HONNALI",
-    "JAGALUR"
+    "JAGALUR",
+    "MAYAKONDA"
   ],
   "DHARWAD": [
     "DHARWAD",
@@ -137,13 +137,13 @@
   ],
   "GADAG": [
     "GADAG",
-    "NARAGUND",
+    "NARGUND",
     "RON",
     "SHIRAHATTI"
   ],
   "HASSAN": [
-    "ARAKALGUD",
-    "ARASIKERE",
+    "ARKALGUD",
+    "ARSIKERE",
     "BELUR",
     "HASSAN",
     "HOLENARASIPUR",
@@ -156,7 +156,7 @@
     "HAVERI",
     "HIREKERUR",
     "RANEBENNUR",
-    "SAVANUR"
+    "SHIGGAON"
   ],
   "KALABURAGI": [
     "AFZALPUR",
@@ -189,7 +189,7 @@
     "YELBURGA"
   ],
   "MANDYA": [
-    "KRISHNARAJPET",
+    "KRISHNARAJAPET",
     "MADDUR",
     "MALAVALLI",
     "MANDYA",
@@ -206,18 +206,18 @@
     "KRISHNARAJANAGARA",
     "NANJANAGUD",
     "NARASIMHARAJA",
-    "PIRIYAPATNA",
+    "PERIYAPATNA",
     "T_NARASIPURA",
     "VARUNA"
   ],
   "RAICHUR": [
     "DEVADURGA",
-    "LINGASUGUR",
+    "LINGSUGUR",
     "MANVI",
+    "MASKI",
     "RAICHUR",
     "RAICHUR_RURAL",
-    "SINDHANUR",
-    "SIRWAR"
+    "SINDHANUR"
   ],
   "RAMANAGARA": [
     "CHANNAPATNA",
@@ -226,7 +226,7 @@
     "RAMANAGARA"
   ],
   "SHIVAMOGGA": [
-    "BHADRAVATHI",
+    "BHADRAVATI",
     "SAGAR",
     "SHIKARIPURA",
     "SHIMOGA",
@@ -257,36 +257,33 @@
   "UTTARA_KANNADA": [
     "BHATKAL",
     "HALIYAL",
-    "JOIDA",
     "KARWAR",
     "KUMTA",
     "SIRSI",
     "YELLAPUR"
   ],
+  "VIJAYANAGARA": [
+    "HAGARIBOMMANAHALLI",
+    "HARAPANAHALLI",
+    "HOOVINA_HADAGALI",
+    "HOSPET",
+    "KUDLIGI",
+    "VIJAYANAGARA"
+  ],
   "VIJAYAPURA": [
     "BABALESHWAR",
-    "BASAVANA_BAGEWADI",
+    "BASAVANA_BAGEVADI",
     "BIJAPUR_CITY",
-    "DEVAR_HIPPARAGI",
+    "DEVAR_HIPPARGI",
     "INDI",
     "MUDDEBIHAL",
-    "NAGATHANA",
+    "NAGATHAN",
     "SINDAGI"
-  ],
-  "VIJAYANAGARA": [
-    "HADAGALI",
-    "HARAPANAHALLI",
-    "HAGARIBOMMANAHALLI",
-    "HOOVINA_HADAGALI",
-    "KAMPLI",
-    "KUDLIGI",
-    "SANDUR",
-    "VIJAYANAGARA"
   ],
   "YADGIR": [
     "GURMITKAL",
     "SHAHAPUR",
-    "SURPUR",
+    "SHORAPUR",
     "YADGIR"
   ]
 }
