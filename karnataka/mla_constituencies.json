@@ -1,0 +1,292 @@
+{
+  "BAGALKOTE": [
+    "BADAMI",
+    "BAGALKOT",
+    "BILGI",
+    "HUNGUND",
+    "JAMKHANDI",
+    "MUDHOL",
+    "TERDAL"
+  ],
+  "BALLARI": [
+    "BALLARI_CITY",
+    "BALLARI_RURAL",
+    "KAMPLI",
+    "KUDLIGI",
+    "SANDUR",
+    "SIRUGUPPA",
+    "VIJAYANAGARA"
+  ],
+  "BELAGAVI": [
+    "ARABHAVI",
+    "ATHANI",
+    "BAILAHONGAL",
+    "BELAGAVI_DAKSHIN",
+    "BELAGAVI_RURAL",
+    "BELAGAVI_UTTAR",
+    "CHIKKODI_SADALGA",
+    "GOKAK",
+    "HUKKERI",
+    "KAGWAD",
+    "KHANAPUR",
+    "KITTUR",
+    "KUDACHI",
+    "NIPPANI",
+    "RAMDURG",
+    "RAYBAG",
+    "SAUNDATTI_YELLAMMA",
+    "YAMAKANAMARADI"
+  ],
+  "BENGALURU_RURAL": [
+    "DEVANAHALLI",
+    "DODDABALLAPUR",
+    "HOSAKOTE",
+    "NELAMANGALA"
+  ],
+  "BENGALURU_URBAN": [
+    "ANEKAL",
+    "B_T_M_LAYOUT",
+    "BASAVANAGUDI",
+    "BOMMANAHALLI",
+    "BYATARAYANAPURA",
+    "C_V_RAMAN_NAGAR",
+    "CHAMARAJPET",
+    "CHICKPET",
+    "DASARAHALLI",
+    "GANDHINAGAR",
+    "HEBBAL",
+    "JAYANAGAR",
+    "KR_PURAM",
+    "MAHADEVAPURA",
+    "MAHALAKSHMI_LAYOUT",
+    "MALLESHWARAM",
+    "PADMANABHANAGAR",
+    "PULAKESHINAGAR",
+    "RAJAJINAGAR",
+    "SARVAJNANAGAR",
+    "SHANTHINAGAR",
+    "SHIVAJINAGAR",
+    "VIJAYANAGAR",
+    "YESHWANTHPURA",
+    "YELAHANKA",
+    "BENGALURU_SOUTH"
+  ],
+  "BIDAR": [
+    "AURAD",
+    "BHALKI",
+    "BIDAR",
+    "BIDAR_SOUTH",
+    "BASAVAKALYAN",
+    "HUMNABAD"
+  ],
+  "CHAMARAJANAGAR": [
+    "CHAMARAJANAGAR",
+    "GUNDLUPET",
+    "HANUR",
+    "KOLLEGAL"
+  ],
+  "CHIKKABALLAPUR": [
+    "BAGEPALLI",
+    "CHIKKABALLAPUR",
+    "CHINTAMANI",
+    "GAURIBIDANUR",
+    "SIDLAGHATTA"
+  ],
+  "CHIKKAMAGALURU": [
+    "CHIKKAMAGALURU",
+    "KADUR",
+    "MOODIGERE",
+    "SHRINGERI",
+    "TARIKERE"
+  ],
+  "CHITRADURGA": [
+    "CHALLAKERE",
+    "CHITRADURGA",
+    "HIRIYUR",
+    "HOLALKERE",
+    "HOSADURGA",
+    "MOLAKALMURU"
+  ],
+  "DAKSHINA_KANNADA": [
+    "BANTWAL",
+    "BELTHANGADY",
+    "MANGALURU",
+    "MANGALURU_CITY_NORTH",
+    "MANGALURU_CITY_SOUTH",
+    "MOODBIDRI",
+    "PUTTUR",
+    "SULLIA"
+  ],
+  "DAVANAGERE": [
+    "CHANNAGIRI",
+    "DAVANAGERE_NORTH",
+    "DAVANAGERE_SOUTH",
+    "HARAPANAHALLI",
+    "HARIHAR",
+    "HONNALI",
+    "JAGALUR"
+  ],
+  "DHARWAD": [
+    "DHARWAD",
+    "HUBBALLI_DHARWAD_CENTRAL",
+    "HUBBALLI_DHARWAD_EAST",
+    "HUBBALLI_DHARWAD_WEST",
+    "KALGHATGI",
+    "KUNDGOL",
+    "NAVALGUND"
+  ],
+  "GADAG": [
+    "GADAG",
+    "NARAGUND",
+    "RON",
+    "SHIRAHATTI"
+  ],
+  "HASSAN": [
+    "ARAKALGUD",
+    "ARASIKERE",
+    "BELUR",
+    "HASSAN",
+    "HOLENARASIPUR",
+    "SAKLESHPUR",
+    "SHRAVANABELAGOLA"
+  ],
+  "HAVERI": [
+    "BYADGI",
+    "HANGAL",
+    "HAVERI",
+    "HIREKERUR",
+    "RANEBENNUR",
+    "SAVANUR"
+  ],
+  "KALABURAGI": [
+    "AFZALPUR",
+    "ALAND",
+    "CHINCHOLI",
+    "CHITTAPUR",
+    "GULBARGA_DAKSHIN",
+    "GULBARGA_RURAL",
+    "GULBARGA_UTTAR",
+    "JEVARGI",
+    "SEDAM"
+  ],
+  "KODAGU": [
+    "MADIKERI",
+    "VIRAJPET"
+  ],
+  "KOLAR": [
+    "BANGARAPET",
+    "KGF",
+    "KOLAR",
+    "MALUR",
+    "MULBAGAL",
+    "SRINIVASPUR"
+  ],
+  "KOPPAL": [
+    "GANGAVATHI",
+    "KANAKAGIRI",
+    "KOPPAL",
+    "KUSHTAGI",
+    "YELBURGA"
+  ],
+  "MANDYA": [
+    "KRISHNARAJPET",
+    "MADDUR",
+    "MALAVALLI",
+    "MANDYA",
+    "MELUKOTE",
+    "NAGAMANGALA",
+    "SHRIRANGAPATTANA"
+  ],
+  "MYSURU": [
+    "CHAMARAJA",
+    "CHAMUNDESHWARI",
+    "HEGGADADEVANAKOTE",
+    "HUNSUR",
+    "KRISHNARAJA",
+    "KRISHNARAJANAGARA",
+    "NANJANAGUD",
+    "NARASIMHARAJA",
+    "PIRIYAPATNA",
+    "T_NARASIPURA",
+    "VARUNA"
+  ],
+  "RAICHUR": [
+    "DEVADURGA",
+    "LINGASUGUR",
+    "MANVI",
+    "RAICHUR",
+    "RAICHUR_RURAL",
+    "SINDHANUR",
+    "SIRWAR"
+  ],
+  "RAMANAGARA": [
+    "CHANNAPATNA",
+    "KANAKAPURA",
+    "MAGADI",
+    "RAMANAGARA"
+  ],
+  "SHIVAMOGGA": [
+    "BHADRAVATHI",
+    "SAGAR",
+    "SHIKARIPURA",
+    "SHIMOGA",
+    "SHIMOGA_RURAL",
+    "SORABA",
+    "TIRTHAHALLI"
+  ],
+  "TUMAKURU": [
+    "CHIKKANAYAKANAHALLI",
+    "GUBBI",
+    "KORATAGERE",
+    "KUNIGAL",
+    "MADHUGIRI",
+    "PAVAGADA",
+    "SIRA",
+    "TIPTUR",
+    "TUMAKURU_CITY",
+    "TUMAKURU_RURAL",
+    "TURUVEKERE"
+  ],
+  "UDUPI": [
+    "BYNDOOR",
+    "KAUP",
+    "KARKALA",
+    "KUNDAPURA",
+    "UDUPI"
+  ],
+  "UTTARA_KANNADA": [
+    "BHATKAL",
+    "HALIYAL",
+    "JOIDA",
+    "KARWAR",
+    "KUMTA",
+    "SIRSI",
+    "YELLAPUR"
+  ],
+  "VIJAYAPURA": [
+    "BABALESHWAR",
+    "BASAVANA_BAGEWADI",
+    "BIJAPUR_CITY",
+    "DEVAR_HIPPARAGI",
+    "INDI",
+    "MUDDEBIHAL",
+    "NAGATHANA",
+    "SINDAGI"
+  ],
+  "VIJAYANAGARA": [
+    "HADAGALI",
+    "HARAPANAHALLI",
+    "HAGARIBOMMANAHALLI",
+    "HOOVINA_HADAGALI",
+    "KAMPLI",
+    "KUDLIGI",
+    "SANDUR",
+    "VIJAYANAGARA"
+  ],
+  "YADGIR": [
+    "GURMITKAL",
+    "SHAHAPUR",
+    "SURPUR",
+    "YADGIR"
+  ]
+}
